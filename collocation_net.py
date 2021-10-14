@@ -1,4 +1,5 @@
 import pickle
+import scipy
 import pandas as pd
 import numpy as np
 from sklearn.neighbors import NearestNeighbors
@@ -24,9 +25,15 @@ class CollocationNet:
         with open(f"data/{model.lower()}_topics.pickle", "rb") as f:
             self.topics = pickle.load(f)
 
-    def get_noun_index(self, word: str) -> int:
+    def noun_index(self, word: str) -> int:
         for i, noun in enumerate(self.data.index):
             if noun == word:
+                return i
+        return -1
+
+    def adjective_index(self, word: str) -> int:
+        for i, adj in enumerate(self.data.columns):
+            if adj == word:
                 return i
         return -1
 
@@ -56,7 +63,7 @@ class CollocationNet:
         #     raise CollocationNetException(f"Word '{word}' not in dataset")
         # return self.data.loc[word].sort_values(ascending=False).index[:number_of_words].values.tolist()
 
-        word_index = self.get_noun_index(word)
+        word_index = self.noun_index(word)
 
         if word_index == -1:
             raise CollocationNetException(f"Word '{word}' not in dataset")
@@ -182,7 +189,7 @@ class CollocationNet:
         :param word:
         :return:
         """
-        word_index = self.get_noun_index(word)
+        word_index = self.noun_index(word)
 
         if word_index == -1:
             raise CollocationNetException(f"Word '{word}' not in dataset")
@@ -202,19 +209,27 @@ class CollocationNet:
         TODO
 
         :param noun:
+        :param adjectives:
         :return:
         """
-        characterisation = self.characterisation(noun, number_of_topics=self.noun_dist[0].shape[0])
+        noun_index = self.noun_index(noun)
+        if noun_index == -1:
+            raise CollocationNetException(f"Noun '{noun}' is not in the dataset.")
 
-        sorted_adjs = []
+        noun_topics = self.noun_dist[noun_index]
+        results = []
 
-        for c in characterisation:
-            for adj in c[1]:
-                if adj in adjectives:
-                    sorted_adjs.append(adj)
-                    adjectives.remove(adj)
+        for adj in adjectives:
+            adj_idx = self.adjective_index(adj)
 
-        return sorted_adjs
+            if adj_idx == -1:
+                continue
+
+            adj_dirichlet = scipy.stats.dirichlet.rvs(self.adj_dist[:, adj_idx], size=1000)
+            prob = np.mean(np.matmul(noun_topics, adj_dirichlet.T))
+            results.append((adj, prob))
+
+        return sorted(results, key=lambda x: x[1], reverse=True)
 
     def predict_for_several(self, words: str):
         char_for_each = {}
@@ -267,7 +282,7 @@ class CollocationNet:
         :param word:
         :return:
         """
-        word_index = self.get_noun_index(noun)
+        word_index = self.noun_index(noun)
 
         if word_index == -1:
             raise CollocationNetException(f"Word '{noun}' not in dataset")
