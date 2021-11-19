@@ -1,17 +1,11 @@
 import pytest
-# import sys, os
-# from collocation_net import CollocationNet, CollocationNetException
-# from .. import collocation_net
-# from collocation_net import CollocationNet, CollocationNetException
-# sys.path.append(os.path.abspath('../'))  # temporary fix to see if tests work
-# from collocation_net import CollocationNet, CollocationNetException
-from collocation_net.collocation_net import BaseCollocationNet, CollocationNetException
+from collocation_net.base_collocation_net import BaseCollocationNet
 
 cn = BaseCollocationNet()
 
 
 def test_unknown_word():
-    with pytest.raises(CollocationNetException):
+    with pytest.raises(ValueError):
         index = cn.row_index('testsõna')
 
 
