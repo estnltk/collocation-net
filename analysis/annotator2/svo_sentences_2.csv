@@ -1,0 +1,201 @@
+,sentence,subject,object,hinnang
+0,Eesti ***** on ***** sel suvel Eestisse loenguid pidama kutsunud .,valitsus,tema,yes
+1,Eesti ***** on ***** sel suvel Eestisse loenguid pidama kutsunud .,tema,valitsus,no
+2,Venemaale ei ennusta head ***** ***** .,keegi,aasta,yes
+3,Venemaale ei ennusta head ***** ***** .,aasta,keegi,no
+4,"See ***** andis ***** majandus- ja õigusvaldkonnas , samuti kohtus esinemise praktika , mis hiljem pensionäride õiguste kaitsmisel kasuks tuli .",töö,kogemus,yes
+5,"See ***** andis ***** majandus- ja õigusvaldkonnas , samuti kohtus esinemise praktika , mis hiljem pensionäride õiguste kaitsmisel kasuks tuli .",kogemus,töö,no
+6,"Muidugi tekitavad kaks ***** ka ***** , eriti esimestel nädalatel , kui laps ei lase magada ja kui ei saa väljas käia .",laps,pinge,yes
+7,"Muidugi tekitavad kaks ***** ka ***** , eriti esimestel nädalatel , kui laps ei lase magada ja kui ei saa väljas käia .",pinge,laps,no
+8,"Mikenbergi ***** ja ülesandeid mäletavad mõnedki Inglismaa ***** , kes on varmalt valmis kõigest rääkima .",eestlane,missioon,yes
+9,"Mikenbergi ***** ja ülesandeid mäletavad mõnedki Inglismaa ***** , kes on varmalt valmis kõigest rääkima .",missioon,eestlane,no
+10,“ Hommikul poole üheksast õhtul ***** üheksani hoian ***** tegevuses .,pool,ise,no
+11,“ Hommikul poole üheksast õhtul ***** üheksani hoian ***** tegevuses .,ise,pool,no
+12,"***** anname sulle ***** , samas palume politseil uurida selle väljaandmisel aluseks olnud võltsdokumenti .",mina,pass,yes
+13,"***** anname sulle ***** , samas palume politseil uurida selle väljaandmisel aluseks olnud võltsdokumenti .",pass,mina,no
+14,"Kui nad seda ei suuda , ei taha ***** neid oma ***** .",mina,buss,no
+15,"Kui nad seda ei suuda , ei taha ***** neid oma ***** .",buss,mina,no
+16,“ ***** sellist ei olnud ***** varem kogenud .,mina,miski,yes
+17,“ ***** sellist ei olnud ***** varem kogenud .,miski,mina,no
+18,Ometi vajavad ***** kõik kindlasti ka psühholoogilist ***** .,tema,nõustamine,yes
+19,Ometi vajavad ***** kõik kindlasti ka psühholoogilist ***** .,nõustamine,tema,no
+20,"***** suurlinnaga võttis ***** nõrgaks , kuid ta jäi püsti .",kohtumine,jalg,yes
+21,"***** suurlinnaga võttis ***** nõrgaks , kuid ta jäi püsti .",jalg,kohtumine,no
+22,"Euroopalik ***** tähendab ***** kahtlusest , et iga kord , kui Eesti välisministeeriumi esindaja kohtub Vene välisministeeriumi kolleegiga , toimub salajane Eesti mahamüümine .",käitumine,loobumine,yes
+23,"Euroopalik ***** tähendab ***** kahtlusest , et iga kord , kui Eesti välisministeeriumi esindaja kohtub Vene välisministeeriumi kolleegiga , toimub salajane Eesti mahamüümine .",loobumine,käitumine,no
+24,"Auto tehnilistest nõuetest ***** peab tagama tehniline ***** , mis kombineerub areneva kindlustusturuga .",ülevaatus,kinnipidamine,yes
+25,"Auto tehnilistest nõuetest ***** peab tagama tehniline ***** , mis kombineerub areneva kindlustusturuga .",kinnipidamine,ülevaatus,no
+26,Viimased kohalikud ***** võitnud ***** on läbi ja lõhki realist .,valimine,mahl,no
+27,Viimased kohalikud ***** võitnud ***** on läbi ja lõhki realist .,mahl,valimine,no
+28,"***** rajasid oma äri ***** juba Jossif Stalini ajal , 1949. aastal sõlmitud “ sõpruse , koostöö ja vastastikuse abistamise leppe ” peale , mille perestroika nurjas .",tema,edu,yes
+29,"***** rajasid oma äri ***** juba Jossif Stalini ajal , 1949. aastal sõlmitud “ sõpruse , koostöö ja vastastikuse abistamise leppe ” peale , mille perestroika nurjas .",edu,tema,no
+30,“ ***** väljendab ***** tõesti väga radikaalselt ja hoopis karmimalt .,isa,ise,yes
+31,“ ***** väljendab ***** tõesti väga radikaalselt ja hoopis karmimalt .,ise,isa,no
+32,"***** tõstis jälle üles vene vähemuse ***** Eestis , väites , et siin jätkub massiline ja häbiväärne inimõiguste rikkumine .",tema,olukord,yes
+33,"***** tõstis jälle üles vene vähemuse ***** Eestis , väites , et siin jätkub massiline ja häbiväärne inimõiguste rikkumine .",olukord,tema,no
+34,Loodetavasti leiab uuendamise käigus järgmises atlases ***** ka Eesti suuruselt 11. linna - Maardu ***** .,kaart,kujutamine,yes
+35,Loodetavasti leiab uuendamise käigus järgmises atlases ***** ka Eesti suuruselt 11. linna - Maardu ***** .,kujutamine,kaart,no
+36,"***** tõi ***** suve lõpus Haapsalust Tallinna , mul oli Mustamäel kahetoaline korter .",ema,mina,yes
+37,"***** tõi ***** suve lõpus Haapsalust Tallinna , mul oli Mustamäel kahetoaline korter .",mina,ema,yes
+38,"***** korraldasid korraliku ***** , aga õnneks lahenes intsident õnnelikult .",teenistuja,stseen,yes
+39,"***** korraldasid korraliku ***** , aga õnneks lahenes intsident õnnelikult .",stseen,teenistuja,no
+40,Ainuüksi Miri varustamiseks tarvisminevate süstikulendude peale ajavahemikul 1995 - 1997 lubas lahke ***** 400 miljonit dollarit ehk peaaegu pool Eesti ***** !,kongress,aastaeelarve,yes
+41,Ainuüksi Miri varustamiseks tarvisminevate süstikulendude peale ajavahemikul 1995 - 1997 lubas lahke ***** 400 miljonit dollarit ehk peaaegu pool Eesti ***** !,aastaeelarve,kongress,no
+42,"***** , kes polnud koolis varem esinenud , tunnetas teiste ***** .",Anna,vastuseis,yes
+43,"***** , kes polnud koolis varem esinenud , tunnetas teiste ***** .",vastuseis,Anna,no
+44,"Mõne aja eest mõõtis üks Pärnumaa ***** Tammiste vanadekodu välisseina ***** ning avastas , et see ei vasta Brüsseli nõuetele .",mees,temperatuur,yes
+45,"Mõne aja eest mõõtis üks Pärnumaa ***** Tammiste vanadekodu välisseina ***** ning avastas , et see ei vasta Brüsseli nõuetele .",temperatuur,mees,no
+46,Vaesest perest pärit Liverpooli ***** McCartney kaotas 14aastaselt ***** .,poiss,ema,yes
+47,Vaesest perest pärit Liverpooli ***** McCartney kaotas 14aastaselt ***** .,ema,poiss,no
+48,"Oma ***** pole ***** küll näinud nii palju , kui ma tahaksin .",mina,tütar,yes
+49,"Oma ***** pole ***** küll näinud nii palju , kui ma tahaksin .",tütar,mina,yes
+50,"Vabadel hetkedel ühendab ***** sageli psühholoogia-huvi oma teise ***** , lugemisega : “ See on mu lemmiktegevus .",Kersti,hobi,yes
+51,"Vabadel hetkedel ühendab ***** sageli psühholoogia-huvi oma teise ***** , lugemisega : “ See on mu lemmiktegevus .",hobi,Kersti,no
+52,"***** ***** tõesti naudid nii , et ootad seda varahommikust päeva lõpuni , mil saad asjaga segamatult tegelda ?",sina,mis,yes
+53,"***** ***** tõesti naudid nii , et ootad seda varahommikust päeva lõpuni , mil saad asjaga segamatult tegelda ?",mis,sina,no
+54,Tegelikult mängivad ***** Euroopa Unioonis samasugust ***** nagu hea õli auto mootoris .,väikeriik,roll,yes
+55,Tegelikult mängivad ***** Euroopa Unioonis samasugust ***** nagu hea õli auto mootoris .,roll,väikeriik,no
+56,"” Millal ja kuidas kliendi ja advokaadi ***** romantilised ***** peale võttis , kes seda enam mäletab .",suhe,tuur,yes
+57,"” Millal ja kuidas kliendi ja advokaadi ***** romantilised ***** peale võttis , kes seda enam mäletab .",tuur,suhe,no
+58,***** tõendas ***** Vukovaris Bosnia konflikti ajal .,juhtum,see,no
+59,***** tõendas ***** Vukovaris Bosnia konflikti ajal .,see,juhtum,yes
+60,“ Aga ***** kõik kohe tervendas ***** .,see,mina,yes
+61,“ Aga ***** kõik kohe tervendas ***** .,mina,see,no
+62,"Ehkki ta kaotas poole oma rahast esimese paari kuuga , pantis ***** oma ***** , laenas investeerimiseks 50 000 dollarit ning tema aktsiaportfelli väärtus on kasvanud 174 000 dollarini , seega 74% .",tema,maja,yes
+63,"Ehkki ta kaotas poole oma rahast esimese paari kuuga , pantis ***** oma ***** , laenas investeerimiseks 50 000 dollarit ning tema aktsiaportfelli väärtus on kasvanud 174 000 dollarini , seega 74% .",maja,tema,no
+64,"Kuni Zinni surve või ootamatu meelemuutus Iisraelis endas pole tulemust andnud , pilluvad tavalised ***** ***** edasi .",palestiinlane,kivi,yes
+65,"Kuni Zinni surve või ootamatu meelemuutus Iisraelis endas pole tulemust andnud , pilluvad tavalised ***** ***** edasi .",kivi,palestiinlane,no
+66,"Kaudselt võib arstide sõnul majanduslikel põhjustel halba ***** näidata ***** nakkushaigustesse , nagu näiteks gripp , kuid ka tuberkuloos .",suurenemine,toitumine,no
+67,"Kaudselt võib arstide sõnul majanduslikel põhjustel halba ***** näidata ***** nakkushaigustesse , nagu näiteks gripp , kuid ka tuberkuloos .",toitumine,suurenemine,yes
+68,“ Suveks ***** ***** vist veel valmis ei saa .,mina,maja,yes
+69,“ Suveks ***** ***** vist veel valmis ei saa .,maja,mina,no
+70,Katarina ***** süüdistavad ***** naiselt raha väljapressimises .,lähedane,Tanel,yes
+71,Katarina ***** süüdistavad ***** naiselt raha väljapressimises .,Tanel,lähedane,no
+72,Järgmised kaks ***** viisid tema ***** peaaegu täide .,olümpia,ennustus,yes
+73,Järgmised kaks ***** viisid tema ***** peaaegu täide .,ennustus,olümpia,no
+74,***** sulgeb meie ajaloo ühe ***** .,piirileping,lehekülg,yes
+75,***** sulgeb meie ajaloo ühe ***** .,lehekülg,piirileping,no
+76,***** võib pealt kuulata ka kaugel seisvate inimeste ***** .,tema,jutt,yes
+77,***** võib pealt kuulata ka kaugel seisvate inimeste ***** .,jutt,tema,no
+78,"Aga ise ***** ootan küll Euroopasse ***** , sest olen terve viimase aasta praktiliselt Ameerikas elanud .",mina,jõudmine,yes
+79,"Aga ise ***** ootan küll Euroopasse ***** , sest olen terve viimase aasta praktiliselt Ameerikas elanud .",jõudmine,mina,no
+80,"Lisaks sellele ei ole kumbki ***** ühtegi rahvusvahelist ***** rikkunud , sest nad pole nendega lihtsalt ühinenud .",riik,leping,yes
+81,"Lisaks sellele ei ole kumbki ***** ühtegi rahvusvahelist ***** rikkunud , sest nad pole nendega lihtsalt ühinenud .",leping,riik,no
+82,"Kord tehtud ***** ***** enam kunagi ei saa muuta , ” kinnitas oma lahkumiskõnes Savisaar .",mina,samm,yes
+83,"Kord tehtud ***** ***** enam kunagi ei saa muuta , ” kinnitas oma lahkumiskõnes Savisaar .",samm,mina,no
+84,***** paneb ***** teise pilguga vaatama .,see,Ameerika,yes
+85,***** paneb ***** teise pilguga vaatama .,Ameerika,see,yes
+86,Primakovi “ Euro-Aasia ” ***** peab eeskätt silmas Venemaa strateegilist ***** Hiinaga .,mudel,partnerlus,yes
+87,Primakovi “ Euro-Aasia ” ***** peab eeskätt silmas Venemaa strateegilist ***** Hiinaga .,partnerlus,mudel,no
+88,"Maruvihane ***** haaras kuurist esimese ettejäänud ***** , mis juhtus olema mootorsaag , ning ilmus sellega venna toa uksele .",poiss,asi,yes
+89,"Maruvihane ***** haaras kuurist esimese ettejäänud ***** , mis juhtus olema mootorsaag , ning ilmus sellega venna toa uksele .",asi,poiss,no
+90,"***** meenutab ***** , kui müügile ilmus Luule Viilma teine raamat : “ Juba nädalaid enne ilmumist helistati ja küsiti , kas juba on raamat müügil .",tema,aeg,yes
+91,"***** meenutab ***** , kui müügile ilmus Luule Viilma teine raamat : “ Juba nädalaid enne ilmumist helistati ja küsiti , kas juba on raamat müügil .",aeg,tema,no
+92,Ilumängu vahukoore sisse upub ***** ihar ja võikavõitu ***** .,sisu,loog,no
+93,Ilumängu vahukoore sisse upub ***** ihar ja võikavõitu ***** .,loog,sisu,no
+94,Nõukogude Liiduga sõlmitud nn. vastastikuse abistamise ***** muutsid Balti ***** idanaabri protektoraadiks .,leping,riik,yes
+95,Nõukogude Liiduga sõlmitud nn. vastastikuse abistamise ***** muutsid Balti ***** idanaabri protektoraadiks .,riik,leping,no
+96,"***** kinnitab rahvusvaheline ***** ja seal on kirjas , mida peab tegema pataljon , mida kompanii , mida rühm .",töögrupp,see,yes
+97,"***** kinnitab rahvusvaheline ***** ja seal on kirjas , mida peab tegema pataljon , mida kompanii , mida rühm .",see,töögrupp,no
+98,"Leptiini-defektita hiirtele , kes olid lihtsalt hea toidu peal paksuks nuumatud , ei teinud leptiini ***** suurt ***** .",süstimine,miski,yes
+99,"Leptiini-defektita hiirtele , kes olid lihtsalt hea toidu peal paksuks nuumatud , ei teinud leptiini ***** suurt ***** .",miski,süstimine,no
+100,***** lihtsalt ajavad ***** itsitama .,asi,mina,yes
+101,***** lihtsalt ajavad ***** itsitama .,mina,asi,no
+102,Nende arvates näitab ***** ühise rahasüsteemi ***** .,see,hüve,yes
+103,Nende arvates näitab ***** ühise rahasüsteemi ***** .,hüve,see,no
+104,Öösel viis ***** ***** talu tiiki vesirooside vahele ujuma .,tema,külaline,yes
+105,Öösel viis ***** ***** talu tiiki vesirooside vahele ujuma .,külaline,tema,yes
+106,"Kui Eestis kasvab mobiiliomanike arv ka edaspidi 60% ringis aastas , saab iga kolmas ***** ***** 2000. aasta lõpuks .",eestlane,mobiiltelefon,yes
+107,"Kui Eestis kasvab mobiiliomanike arv ka edaspidi 60% ringis aastas , saab iga kolmas ***** ***** 2000. aasta lõpuks .",mobiiltelefon,eestlane,no
+108,"***** oli teinud ***** , mil polnud mingit tulemust .",tema,miski,yes
+109,"***** oli teinud ***** , mil polnud mingit tulemust .",miski,tema,no
+110,Ja ***** heidab internetis ***** värsketele päevalehtedele .,Savisaar,pilk,yes
+111,Ja ***** heidab internetis ***** värsketele päevalehtedele .,pilk,Savisaar,no
+112,“ ***** rääkis endast ***** ära .,tema,kõik,yes
+113,“ ***** rääkis endast ***** ära .,kõik,tema,no
+114,"***** peavad ikkagi tegema Viljandi , Rakvere või Tartu ***** , kui nad tahavad olla riigitruud ?",ettevõtja,mis,yes
+115,"***** peavad ikkagi tegema Viljandi , Rakvere või Tartu ***** , kui nad tahavad olla riigitruud ?",mis,ettevõtja,no
+116,"Gabrieli ( 31 ) paremat ***** ehib ***** , millel on kujutatud sihtmärki jälgiv snaiper .",tätoveering,õlg,yes
+117,"Gabrieli ( 31 ) paremat ***** ehib ***** , millel on kujutatud sihtmärki jälgiv snaiper .",õlg,tätoveering,no
+118,"***** annab haruharva ***** ning vastab vaid sellistele küsimustele , mida tavaliselt esitavad talle lapsed või tema raamatute tavalugejad .",tema,intervjuu,yes
+119,"***** annab haruharva ***** ning vastab vaid sellistele küsimustele , mida tavaliselt esitavad talle lapsed või tema raamatute tavalugejad .",intervjuu,tema,no
+120,"Vatikani pressiteenistuse teadaandes viibutab ***** ***** selliste supertähtede suunas , nagu Jennifer Aniston , Naomi Campbell ja Catherine Zeta Jones .",paavst,sõrm,yes
+121,"Vatikani pressiteenistuse teadaandes viibutab ***** ***** selliste supertähtede suunas , nagu Jennifer Aniston , Naomi Campbell ja Catherine Zeta Jones .",sõrm,paavst,no
+122,"Oktoobris otsis riiklike tööhõive-ametite vahendusel ***** 31 850 ***** , seega alla poole töötuist .",inimene,töö,yes
+123,"Oktoobris otsis riiklike tööhõive-ametite vahendusel ***** 31 850 ***** , seega alla poole töötuist .",töö,inimene,no
+124,"Pikk ***** muudab ***** kangeks , nii et Andrus plaanib õhtul veel joostavõimelda .",autosõit,jalg,yes
+125,"Pikk ***** muudab ***** kangeks , nii et Andrus plaanib õhtul veel joostavõimelda .",jalg,autosõit,no
+126,"***** teen ***** ise voodis heaks , kui vaja on .",mina,tema,yes
+127,"***** teen ***** ise voodis heaks , kui vaja on .",tema,mina,no
+128,"Kohe tunnustasid ***** maailma suured , Ameerika ***** ja Nõukogude Liit .",Ühendriik,tema,yes
+129,"Kohe tunnustasid ***** maailma suured , Ameerika ***** ja Nõukogude Liit .",tema,Ühendriik,no
+130,"***** katkestas õnnelik ***** , kes viskus peiule kaela ning kinkis talle kuuma suudluse .",pruut,see,yes
+131,"***** katkestas õnnelik ***** , kes viskus peiule kaela ning kinkis talle kuuma suudluse .",see,pruut,no
+132,Kas ***** ***** vahetad ?,sina,mähe,yes
+133,Kas ***** ***** vahetad ?,mähe,sina,no
+134,Vägisi haiglasse ***** tähendaks ***** .,saatmine,ahistamine,yes
+135,Vägisi haiglasse ***** tähendaks ***** .,ahistamine,saatmine,no
+136,Vaba maa - iga ***** võib ***** tunda kellena tahes .,mats,ise,yes
+137,Vaba maa - iga ***** võib ***** tunda kellena tahes .,ise,mats,no
+138,***** tähendab ***** ja sotsiaalsete pingete leevendamist regioonis .,see,stabiilsus,yes
+139,***** tähendab ***** ja sotsiaalsete pingete leevendamist regioonis .,stabiilsus,see,no
+140,Kuuldavasti panid ***** sellele pühakule kirikus minu jaoks suure hulga ***** põlema .,tema,küünal,yes
+141,Kuuldavasti panid ***** sellele pühakule kirikus minu jaoks suure hulga ***** põlema .,küünal,tema,no
+142,Jättis ***** ju ise New Yorki kolides oma 15aastase ***** Sindri koju Islandile isa Thor Eldroni kasvatada .,tema,poja,yes
+143,Jättis ***** ju ise New Yorki kolides oma 15aastase ***** Sindri koju Islandile isa Thor Eldroni kasvatada .,poja,tema,no
+144,"See üllatav ***** lükkas ümber avaliku arvamuse küsitluste ***** , mis kinnitavad , et alates 1992. aastast on inimesed pidanud kõige olulisemaks just turvalisust ja kuritegevuse pidurdamist .",väide,tulemus,yes
+145,"See üllatav ***** lükkas ümber avaliku arvamuse küsitluste ***** , mis kinnitavad , et alates 1992. aastast on inimesed pidanud kõige olulisemaks just turvalisust ja kuritegevuse pidurdamist .",tulemus,väide,yes
+146,Psühholoogide ja meteoroloogide ***** langeb nende ***** vaagides kokku : kehvades kvartalites valitsenud pinge ja stress vallandusid plahvatusena .,arvamus,põhjus,yes
+147,Psühholoogide ja meteoroloogide ***** langeb nende ***** vaagides kokku : kehvades kvartalites valitsenud pinge ja stress vallandusid plahvatusena .,põhjus,arvamus,no
+148,"“ ***** katab kooli reaalsed ***** ja midagi jääb ka väikesteks investeeringuteks , ” põhjendab Tamjärv õppemaksu suurust .",see,kulg,no
+149,"“ ***** katab kooli reaalsed ***** ja midagi jääb ka väikesteks investeeringuteks , ” põhjendab Tamjärv õppemaksu suurust .",kulg,see,no
+150,"***** kinnitavad must valgel ***** , et Lüganuse Keskkool on hea kool .",tulemus,see,yes
+151,"***** kinnitavad must valgel ***** , et Lüganuse Keskkool on hea kool .",see,tulemus,yes
+152,"Jõulueelse ***** ajal sõlmis Radiolinja ***** täiesti tasuta , lisaks lubati 300 krooni eest telefonikõnesid firma kulul .",reklaamikampaania,liitumisleping,no
+153,"Jõulueelse ***** ajal sõlmis Radiolinja ***** täiesti tasuta , lisaks lubati 300 krooni eest telefonikõnesid firma kulul .",liitumisleping,reklaamikampaania,no
+154,“ Tohutu võõrtööliste ***** ületab päevast-päeva ***** .,voog,piir,yes
+155,“ Tohutu võõrtööliste ***** ületab päevast-päeva ***** .,piir,voog,no
+156,"5. juulil 1993 andis kaitsejõudude peastaabi ***** välja ***** , millega kohustati jäägreid Paldiskis üle võtma Vene sõjaväeosa .",ülem,käskkiri,yes
+157,"5. juulil 1993 andis kaitsejõudude peastaabi ***** välja ***** , millega kohustati jäägreid Paldiskis üle võtma Vene sõjaväeosa .",käskkiri,ülem,no
+158,"“ Eks ***** pean nüüd , jah , natuke ***** maha tõmbama , ” arvab mees , keda sageli meelitavad kaunid daamid ja seksikad modellid .",mina,tuur,yes
+159,"“ Eks ***** pean nüüd , jah , natuke ***** maha tõmbama , ” arvab mees , keda sageli meelitavad kaunid daamid ja seksikad modellid .",tuur,mina,no
+160,***** muudab ***** veel kord märtriks ja tema erakonna suurimaks opositsioonierakonnaks nii all-linnas kui ka Toompeal .,see,Savisaar,yes
+161,***** muudab ***** veel kord märtriks ja tema erakonna suurimaks opositsioonierakonnaks nii all-linnas kui ka Toompeal .,Savisaar,see,no
+162,"Ise ***** ***** ei mäleta , aga teab vanemate jutustuste põhjal - esimene eluaasta möödus sõna otseses mõttes “ sulgede sees .",tema,see,yes
+163,"Ise ***** ***** ei mäleta , aga teab vanemate jutustuste põhjal - esimene eluaasta möödus sõna otseses mõttes “ sulgede sees .",see,tema,no
+164,"***** seletab ehk ka tema soojenevaid ***** ekskallima Hugh Grantiga , kes käib koos Hurleyga arstide juures ja aitab osta kõike vajalikku , et muuta Hurley “ poissmehekodu mugavaks pereelamuks .",see,suhe,yes
+165,"***** seletab ehk ka tema soojenevaid ***** ekskallima Hugh Grantiga , kes käib koos Hurleyga arstide juures ja aitab osta kõike vajalikku , et muuta Hurley “ poissmehekodu mugavaks pereelamuks .",suhe,see,no
+166,"JULIA ROBERTSi ***** kandis ***** - näitlejatar abiellus mehega , kelle ta eksnaise käest välja ostis .",järjekindlus,vili,yes
+167,"JULIA ROBERTSi ***** kandis ***** - näitlejatar abiellus mehega , kelle ta eksnaise käest välja ostis .",vili,järjekindlus,no
+168,Ja kes ***** ***** ikka paremini mõistab kui inimene samast maailmast .,muu,tema,yes
+169,Ja kes ***** ***** ikka paremini mõistab kui inimene samast maailmast .,tema,muu,no
+170,"Peastaabi ***** oli õigeaegselt ette valmistanud ***** , et kaitseväe juhataja need presidendile viiks .",ülem,dokument,yes
+171,"Peastaabi ***** oli õigeaegselt ette valmistanud ***** , et kaitseväe juhataja need presidendile viiks .",dokument,ülem,no
+172,"***** oli just avaldanud nende koolide ***** , kes tulemustelt poolesaja kehvema sekka jäid .",luup,nimekiri,yes
+173,"***** oli just avaldanud nende koolide ***** , kes tulemustelt poolesaja kehvema sekka jäid .",nimekiri,luup,no
+174,"***** võivad leida kümneid ***** , kartes luua pretsedenti , kuid siin võib peituda ühe keerulise probleemi võti .",poliitik,vastuväide,yes
+175,"***** võivad leida kümneid ***** , kartes luua pretsedenti , kuid siin võib peituda ühe keerulise probleemi võti .",vastuväide,poliitik,no
+176,"Mõistagi lõhnavad need ***** ***** järele - seda enam , et peale eluaseme ja auto vajavad inimesed sööki-jooki ja riideid selga , vanematel on suuri kulutusi laste koolitamisega jne .",arvutus,absurd,yes
+177,"Mõistagi lõhnavad need ***** ***** järele - seda enam , et peale eluaseme ja auto vajavad inimesed sööki-jooki ja riideid selga , vanematel on suuri kulutusi laste koolitamisega jne .",absurd,arvutus,no
+178,***** kannab ka maja ***** ja maksab koolitädile palga .,vald,ülalpidamiskulu,yes
+179,***** kannab ka maja ***** ja maksab koolitädile palga .,ülalpidamiskulu,vald,no
+180,***** söön ainult väga head ***** .,mina,sült,yes
+181,***** söön ainult väga head ***** .,sült,mina,no
+182,***** on inimese teadmata jätnud meelde kõik ***** .,aju,sõna,yes
+183,***** on inimese teadmata jätnud meelde kõik ***** .,sõna,aju,no
+184,"Vaatamata liigirohkusele huvitab ***** juba oma pool sajandit põhiliselt ainult üks ***** , Streptococcus mutans .",mikroob,uurija,yes
+185,"Vaatamata liigirohkusele huvitab ***** juba oma pool sajandit põhiliselt ainult üks ***** , Streptococcus mutans .",uurija,mikroob,no
+186,Eesti presidendi Arnold Rüütli ***** surusin ***** pärast hiljutist Eesti ja Monaco sporditähtede vahelist jalgpallimatši ( septembri algul Tallinnas toimunud heategevuslik vutishow - toim ) .,mina,käsi,yes
+187,Eesti presidendi Arnold Rüütli ***** surusin ***** pärast hiljutist Eesti ja Monaco sporditähtede vahelist jalgpallimatši ( septembri algul Tallinnas toimunud heategevuslik vutishow - toim ) .,käsi,mina,no
+188,"” ***** pakub ka teismelistele piisavalt ***** , veendumaks , et alkoholi tarbimine võib lõppeda traagiliselt .",elu,kogemus,yes
+189,"” ***** pakub ka teismelistele piisavalt ***** , veendumaks , et alkoholi tarbimine võib lõppeda traagiliselt .",kogemus,elu,no
+190,"Nigelat ***** kompenseeris ehk vaid ***** , et idanaaber Venemaa paiknes paar kohta tagapool .",see,asetus,yes
+191,"Nigelat ***** kompenseeris ehk vaid ***** , et idanaaber Venemaa paiknes paar kohta tagapool .",asetus,see,no
+192,"Juhul kui tabud on tugevad , siis ***** konfliktsituatsioonis pidurdavad ***** .",tema,agressiivsus,no
+193,"Juhul kui tabud on tugevad , siis ***** konfliktsituatsioonis pidurdavad ***** .",agressiivsus,tema,no
+194,Kuidas ***** ***** meeles pidas ?,Ivo,sina,yes
+195,Kuidas ***** ***** meeles pidas ?,sina,Ivo,no
+196,"***** kaotasid kümne aasta sees ( 1940 - 1950 ) ligi 120 000 ***** , mis ületab kümnendiku rahva koguarvust .",eestlane,hing,yes
+197,"***** kaotasid kümne aasta sees ( 1940 - 1950 ) ligi 120 000 ***** , mis ületab kümnendiku rahva koguarvust .",hing,eestlane,no
+198,***** ei tee ***** lihtsalt niisama .,mina,asi,yes
+199,***** ei tee ***** lihtsalt niisama .,asi,mina,no
