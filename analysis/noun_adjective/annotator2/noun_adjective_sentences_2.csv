@@ -1,0 +1,201 @@
+,sentence,adjective,noun,
+0,"See algab elementaarsetest eluks ***** tingimustest , nagu riided , toit ja peavari , ning lõpeb luksusesemetega , mille järele vajadus on õpitud või tekitatud .",tarvilik,tingimus,yes
+1,"See algab elementaarsetest eluks ***** tingimustest , nagu riided , toit ja peavari , ning lõpeb luksusesemetega , mille järele vajadus on õpitud või tekitatud .",hädavajalik,tingimus,Yes
+2,"Olen kasvanud üles Tallinnas Kevade tänavas , seal oli ***** aed , kus sai kõvasti sporti teha .",suur,aed,Yes
+3,"Olen kasvanud üles Tallinnas Kevade tänavas , seal oli ***** aed , kus sai kõvasti sporti teha .",kõrge,aed,No
+4,"Rivaalitsemisest hoolimata pole klannidel mingit ***** erinevust ning kui nende huvid ka aeg-ajalt põrkuvad , on tegemist “ pada sõimab katelt ” situatsiooniga .",maailmavaateline,erinevus,Yes
+5,"Rivaalitsemisest hoolimata pole klannidel mingit ***** erinevust ning kui nende huvid ka aeg-ajalt põrkuvad , on tegemist “ pada sõimab katelt ” situatsiooniga .",filosoofiline,erinevus,Yes
+6,"Muuseumi väravas astub tulijaile väärikalt vastu ***** , ent padjataoliselt priske kass .",väike,kass,Yes
+7,"Muuseumi väravas astub tulijaile väärikalt vastu ***** , ent padjataoliselt priske kass .",noor,kass,Yes
+8,"Ei oska öelda , kas “ süüdi ” on ***** aastatuhat , kuuseisud või on pereloomine tõepoolest jälle au sisse tõusnud .",uus,aastatuhat,Yes
+9,"Ei oska öelda , kas “ süüdi ” on ***** aastatuhat , kuuseisud või on pereloomine tõepoolest jälle au sisse tõusnud .",originaalne,aastatuhat,No
+10,"USA-s tehti juba 1930. aastatel katsetega kindlaks , et inimese pea soojendamisel tema poolt ***** aja kulg aeglustub .",tajutav,aeg,Yes
+11,"USA-s tehti juba 1930. aastatel katsetega kindlaks , et inimese pea soojendamisel tema poolt ***** aja kulg aeglustub .",endastmõistetav,aeg,No
+12,"Soomlasest fotograaf tõstab ***** vagude vahel poolesajakiloseid viinamarjakaste ja leiab teise päeva õhtuks , et on küll saanud piisava füüsilise koormuse , kuid spetsialistina liiga kallis sellist tööd tegema .",niiske,vagu,Yes
+13,"Soomlasest fotograaf tõstab ***** vagude vahel poolesajakiloseid viinamarjakaste ja leiab teise päeva õhtuks , et on küll saanud piisava füüsilise koormuse , kuid spetsialistina liiga kallis sellist tööd tegema .",kleepuv,vagu,No
+14,"Cameron naudib Hollywoodi staari seisust , võib küsida stuudiobossidelt 10 miljoni dollari suurust honorari ning saab tööpakkumisi oma ala ***** tippudelt .",absoluutne,tipp,Yes
+15,"Cameron naudib Hollywoodi staari seisust , võib küsida stuudiobossidelt 10 miljoni dollari suurust honorari ning saab tööpakkumisi oma ala ***** tippudelt .",lõputu,tipp,No
+16,"Kuigi ***** infrastruktuuri ja kaasaegsete mugavustega on kohati isegi liialdatud , näiteks maantee kolme hirmkalli tunneliga väikesaarel , kus kokku vaid kümmekond autot ja praamiühendus puudub , tundub , et aeg on siin kohati seisma jäänud .",moodne,infrastruktuur,Yes
+17,"Kuigi ***** infrastruktuuri ja kaasaegsete mugavustega on kohati isegi liialdatud , näiteks maantee kolme hirmkalli tunneliga väikesaarel , kus kokku vaid kümmekond autot ja praamiühendus puudub , tundub , et aeg on siin kohati seisma jäänud .",kaasaegne,infrastruktuur,Yes
+18,"” Fertilitase ***** arstidega harjunud Lisa aga nõuab ööselgi , et temaga suheldaks - teda sülle võetaks ja juttu aetaks .",suhtlev,arst,Yes
+19,"” Fertilitase ***** arstidega harjunud Lisa aga nõuab ööselgi , et temaga suheldaks - teda sülle võetaks ja juttu aetaks .",seltskondlik,arst,Yes
+20,"Kahjuks pole kõik eestlased veel teadvustanud , et ***** ja mugaval autosõidul on omad varjuküljed .",mõnus,autosõit,Yes
+21,"Kahjuks pole kõik eestlased veel teadvustanud , et ***** ja mugaval autosõidul on omad varjuküljed .",meeldiv,autosõit,Yes
+22,"Siin elavad tema lapsed Max ( 12 ) , Madeleine ( 10 ) ja Marina ( 7 ) , kaks lapsehoidjat ( ***** ja praegune ) , majahoidja , assistent ning abikaasa Ed Bye .",endine,lapsehoidja,Yes
+23,"Siin elavad tema lapsed Max ( 12 ) , Madeleine ( 10 ) ja Marina ( 7 ) , kaks lapsehoidjat ( ***** ja praegune ) , majahoidja , assistent ning abikaasa Ed Bye .",omaaegne,lapsehoidja,No
+24,Napib nii ***** ettevõtjaid kui ka järvemõnu nautivaid turiste .,rahakas,ettevõtja,Yes
+25,Napib nii ***** ettevõtjaid kui ka järvemõnu nautivaid turiste .,rikas,ettevõtja,Yes
+26,"Analüütikud on rõhutanud , et Ukraina on ***** näide poolel teel külmutatud majandusreformidest .",markantne,näide,Yes
+27,"Analüütikud on rõhutanud , et Ukraina on ***** näide poolel teel külmutatud majandusreformidest .",huvitav,näide,Yes
+28,Mironova on relvakulleri jaoks ***** taustaga .,tüüpiline,taust,Yes
+29,Mironova on relvakulleri jaoks ***** taustaga .,iseloomulik,taust,No
+30,"Pealegi kippus nii ***** pinna , rohkem kui kahesaja ruutmeetri ülalpidamine Reet Linnal ( 57 ) üle jõu käima .",suur,pind,Yes
+31,"Pealegi kippus nii ***** pinna , rohkem kui kahesaja ruutmeetri ülalpidamine Reet Linnal ( 57 ) üle jõu käima .",lai,pind,Yes
+32,"Ta tähendab ( 1995 ) : “ Pekingi Kommunistliku Partei ladvik lihtsalt ei mõista Hongkongi süsteemi alusvundamenti - seaduste austust , inimõigusi , vabaturgu ning valitsuse kasvavat ***** süsteemi - ning nad heidavad kõrvale selle , mida ei mõista .",demokraatlik,süsteem,Yes
+33,"Ta tähendab ( 1995 ) : “ Pekingi Kommunistliku Partei ladvik lihtsalt ei mõista Hongkongi süsteemi alusvundamenti - seaduste austust , inimõigusi , vabaturgu ning valitsuse kasvavat ***** süsteemi - ning nad heidavad kõrvale selle , mida ei mõista .",kodanlik,süsteem,Yes
+34,Valitsuse kukutamise nimel on ennegi loobutud oma erakonna ***** ja ideoloogilistest tõekspidamistest .,poliitiline,tõekspidamine,Yes
+35,Valitsuse kukutamise nimel on ennegi loobutud oma erakonna ***** ja ideoloogilistest tõekspidamistest .,riiklik,tõekspidamine,No
+36,Kas ***** teadmistest on lauljaelus juba ka tulu tõusnud ?,uus,teadmine,Yes
+37,Kas ***** teadmistest on lauljaelus juba ka tulu tõusnud ?,originaalne,teadmine,No
+38,"Kui ***** tingimused on sellised , nagu on , jõuavad inimesed kiiresti haiglasse tagasi .",kodune,tingimus,Yes
+39,"Kui ***** tingimused on sellised , nagu on , jõuavad inimesed kiiresti haiglasse tagasi .",meeldiv,tingimus,No
+40,Põhjamaised rahvakirikud ühendavad elanike ***** enamust .,absoluutne,enamus,Yes
+41,Põhjamaised rahvakirikud ühendavad elanike ***** enamust .,lõputu,enamus,No
+42,"Igal planeedil on magnetväli , näiteks Maa oma kaitseb meid Päikeselt tulevate ***** energiaga laetud osakeste eest .",suur,energia,Yes
+43,"Igal planeedil on magnetväli , näiteks Maa oma kaitseb meid Päikeselt tulevate ***** energiaga laetud osakeste eest .",kõrge,energia,Yes
+44,"Ses suhtes on tähelepanuväärne hiljuti “ Areenis ” ilmunud kirjutis , mis juhtis tähelepanu sellele , kuidas eesti inimene võtab praegu tõsiselt “ eluõpikuid ” , reklaami käsulauseid jms . , mille üle ta veel paari aasta eest oleks irvitanud kui ***** lolluse üle .",viimane,lollus,Yes
+45,"Ses suhtes on tähelepanuväärne hiljuti “ Areenis ” ilmunud kirjutis , mis juhtis tähelepanu sellele , kuidas eesti inimene võtab praegu tõsiselt “ eluõpikuid ” , reklaami käsulauseid jms . , mille üle ta veel paari aasta eest oleks irvitanud kui ***** lolluse üle .",püsiv,lollus,No
+46,"Sageli aga esitatakse oksjonil osalemiseks ***** paberid viimasel hetkel , nii et kontrollida ei jõuta .",vajalik,paber,Yes
+47,"Sageli aga esitatakse oksjonil osalemiseks ***** paberid viimasel hetkel , nii et kontrollida ei jõuta .",hädavajalik,paber,Yes
+48,"Arno kinnitab , et tema ülesanne on siiski ***** tehase tekitamine , mitte “ must töö ” : “ Mulle antakse sellepärast hapral ohupiiril ametikohad , et firma käekäik tähendab mulle otseselt mu enese käekäiku .",elujõuline,tehas,Yes
+49,"Arno kinnitab , et tema ülesanne on siiski ***** tehase tekitamine , mitte “ must töö ” : “ Mulle antakse sellepärast hapral ohupiiril ametikohad , et firma käekäik tähendab mulle otseselt mu enese käekäiku .",elav,tehas,Yes
+50,Kaitseministeerium on juhtunu ***** kommentaaridest seni hoidunud .,ametlik,kommentaar,Yes
+51,Kaitseministeerium on juhtunu ***** kommentaaridest seni hoidunud .,pidulik,kommentaar,No
+52,Seda põhjendati vajadusega hoida silma peal “ Euroopa narkopesast ” Hollandist ***** inimestel .,saabuv,inimene,Yes
+53,Seda põhjendati vajadusega hoida silma peal “ Euroopa narkopesast ” Hollandist ***** inimestel .,homne,inimene,No
+54,"Sellise propaganda sihiks näib olevat sellegi pisku , mis loodud , julm hävitamine ning meie riigi tervishoiustatistika taandamine ***** haiglate anonüümsete voodite jalgade loendamisele .",anonüümne,haigla,Yes
+55,"Sellise propaganda sihiks näib olevat sellegi pisku , mis loodud , julm hävitamine ning meie riigi tervishoiustatistika taandamine ***** haiglate anonüümsete voodite jalgade loendamisele .",teadmata,haigla,Yes
+56,"Ta on veendunud , et kõlavad tiitlid on ***** vastaste tellitud .",poliitiline,vastane,Yes
+57,"Ta on veendunud , et kõlavad tiitlid on ***** vastaste tellitud .",riiklik,vastane,Yes
+58,Milliseid ***** ja maateaduslikke tõsiasju Orbàn oma poliitilise retoorika koostamisel kasutas ?,ajalooline,tõsiasi,Yes
+59,Milliseid ***** ja maateaduslikke tõsiasju Orbàn oma poliitilise retoorika koostamisel kasutas ?,keskaegne,tõsiasi,No
+60,"Ent Fokkeri tehas olnuks ülimalt naiivne , kui ta lennukeid vettpidava ***** aluseta Hispaaniale kinkinuks .",juriidiline,alune,Yes
+61,"Ent Fokkeri tehas olnuks ülimalt naiivne , kui ta lennukeid vettpidava ***** aluseta Hispaaniale kinkinuks .",administratiivne,alune,No
+62,"Jaapani suurim tarkvaratootja Wacom , ravimifirma Il Hwa ( toodab Koreas zhenshenni ekstrakti ) , Panda Motors Corporation ( autotööstus ) ja Tong Il Corporation ( raskemasinatööstus Lõuna-Koreas ) on vaid üksikud nimed ***** loetelust .",pikk,loetelu,Yes
+63,"Jaapani suurim tarkvaratootja Wacom , ravimifirma Il Hwa ( toodab Koreas zhenshenni ekstrakti ) , Panda Motors Corporation ( autotööstus ) ja Tong Il Corporation ( raskemasinatööstus Lõuna-Koreas ) on vaid üksikud nimed ***** loetelust .",kauge,loetelu,No
+64,"“ Kuna asume ***** Punase Reti hoones ja “ red records ” inglise keeles tähendab “ punane salvestab ” ( ja punane on salvestusnupu värv ) , siis pakkus Paul , et miks mitte Red Records .",endine,hoone,Yes
+65,"“ Kuna asume ***** Punase Reti hoones ja “ red records ” inglise keeles tähendab “ punane salvestab ” ( ja punane on salvestusnupu värv ) , siis pakkus Paul , et miks mitte Red Records .",läinud,hoone,No
+66,"“ Tänu rahareformile korraldati Eestis kõige põhjalikum rahvaloendus , kirja pani end ***** kui üks Vene sõjaväelane , ” märgib Eesti Panga infosheff Kaupo Pollisinski .",viimane,sõjaväelane,Yes
+67,"“ Tänu rahareformile korraldati Eestis kõige põhjalikum rahvaloendus , kirja pani end ***** kui üks Vene sõjaväelane , ” märgib Eesti Panga infosheff Kaupo Pollisinski .",püsiv,sõjaväelane,No
+68,"Minu ***** ambitsioonid on seotud mitte minu isiku , vaid jumalaga .",suur,ambitsioon,Yes
+69,"Minu ***** ambitsioonid on seotud mitte minu isiku , vaid jumalaga .",kõrge,ambitsioon,No
+70,"Ühest küljest toekalt ja enesekindlalt , tal on suur vennas- ja õeskond Pedagoogikaülikoolis , tal on äärmiselt mõjuvõimas ja tegus toetajaskond Haridusministeeriumis ning tal on oma meetod - pidurdamatu ilukõne , võime moodustada lõpmatu hulk grammatilisi lauseid , mille semantiline tõlgendamine on sageli ***** .",mõttetu,lause,Yes
+71,"Ühest küljest toekalt ja enesekindlalt , tal on suur vennas- ja õeskond Pedagoogikaülikoolis , tal on äärmiselt mõjuvõimas ja tegus toetajaskond Haridusministeeriumis ning tal on oma meetod - pidurdamatu ilukõne , võime moodustada lõpmatu hulk grammatilisi lauseid , mille semantiline tõlgendamine on sageli ***** .",tobe,lause,Yes
+72,"Ta lisab ***** toonil : “ Vahel ta kuulab mu soovitusi , kui tal aega on .",mõtlik,toon,Yes
+73,"Ta lisab ***** toonil : “ Vahel ta kuulab mu soovitusi , kui tal aega on .",tõsine,toon,Yes
+74,Propaganda Talitus omas ülevaadet kõigist ***** elu valdkondadest .,ideoloogiline,elu,Yes
+75,Propaganda Talitus omas ülevaadet kõigist ***** elu valdkondadest .,filosoofiline,elu,Yes
+76,"Kui ühel nädalal laiutab pika ja värvilise looga keskerakondlane , siis järgmises numbris saagu iseennast , oma elustiili ja maist vara näidata reformikas või isamaaliitlane .",pikk,lood,Yes
+77,"Kui ühel nädalal laiutab pika ja värvilise looga keskerakondlane , siis järgmises numbris saagu iseennast , oma elustiili ja maist vara näidata reformikas või isamaaliitlane .",kauge,lood,No
+78,"Pealegi on Pekingil vaja Moskvat kui suhteliselt kaasaegse sõjatehnika tarnijat , ja relvakaupa on need riigid viimasel ajal ***** aktiivsusega ka teinud .",kasvav,aktiivsus,Yes
+79,"Pealegi on Pekingil vaja Moskvat kui suhteliselt kaasaegse sõjatehnika tarnijat , ja relvakaupa on need riigid viimasel ajal ***** aktiivsusega ka teinud .",edenev,aktiivsus,No
+80,"Aga ***** plaanis küll , jah .",vaimne,plaan,Yes
+81,"Aga ***** plaanis küll , jah .",intellektuaalne,plaan,Yes
+82,"Kõige tähtsamad olid siiski kaks ***** daami - üks blond , teine brünett .",võluv,daam,Yes
+83,"Kõige tähtsamad olid siiski kaks ***** daami - üks blond , teine brünett .",ilus,daam,Yes
+84,"Vihje ei ole küll nii ilmne , nagu ***** kolmas lõvi Tallinna panga kaubamärgil , kuid ülaltvaates astmikpüramiid on meile tuttav vampiirifilmist “ Ehast koiduni ” - baar , kus imeti veoautojuhtide ja mootorratturite verd , oli astmikpüramiid mis astmikpüramiid .",puuduv,lõvi,Yes
+85,"Vihje ei ole küll nii ilmne , nagu ***** kolmas lõvi Tallinna panga kaubamärgil , kuid ülaltvaates astmikpüramiid on meile tuttav vampiirifilmist “ Ehast koiduni ” - baar , kus imeti veoautojuhtide ja mootorratturite verd , oli astmikpüramiid mis astmikpüramiid .",läinud,lõvi,No
+86,"Piison Villul on ka liigikaaslane , võluv piisonipiiga Vilja , ent Villu Reiljan palub sellele tõigale mitte ***** värvingut anda .",poliitiline,värving,Yes
+87,"Piison Villul on ka liigikaaslane , võluv piisonipiiga Vilja , ent Villu Reiljan palub sellele tõigale mitte ***** värvingut anda .",riiklik,värving,No
+88,"Olgu hinnaga kuidas tahes , terve konkurents on ***** .",hädavajalik,hind,No
+89,"Olgu hinnaga kuidas tahes , terve konkurents on ***** .",vajalik,hind,No
+90,"“ Asi sai alguse Alar Kotkast , kes on üldse ***** inimene , ” põrutab Vahur Kersna ( 40 ) , kommenteerides juhtumit , mis võib viia ETV kohtuasjani .",keeruline,inimene,Yes
+91,"“ Asi sai alguse Alar Kotkast , kes on üldse ***** inimene , ” põrutab Vahur Kersna ( 40 ) , kommenteerides juhtumit , mis võib viia ETV kohtuasjani .",mõtlemapanev,inimene,Yes
+92,***** etapp on Liisi jaoks taas üllatus - pedaalile astumise järel tõuseb triikimislaua kate kuuma auru mõjul kõrgemale .,järgmine,etapp,Yes
+93,***** etapp on Liisi jaoks taas üllatus - pedaalile astumise järel tõuseb triikimislaua kate kuuma auru mõjul kõrgemale .,järgnev,etapp,Yes
+94,Näiteks püüd ***** tähelepanu ja tunnustuse järele ning alateadlik kättemaksusoov .,ühiskondlik,tähelepanu,Yes
+95,Näiteks püüd ***** tähelepanu ja tunnustuse järele ning alateadlik kättemaksusoov .,avalik,tähelepanu,Yes
+96,Tema head sidemed Hansapangaga polnud saladuseks ning ***** summa Hans H. Luige firma ka sai .,vajalik,summa,Yes
+97,Tema head sidemed Hansapangaga polnud saladuseks ning ***** summa Hans H. Luige firma ka sai .,hädavajalik,summa,Yes
+98,"Kunstikommunikatsiooni arenedes tuleb nende põhielementide ja “ teose ” vahele mitmesuguseid institutsioone , kuid kui tekib kriitika puhtal kujul , esineb see ainult ***** , neutraalse , paralleelse süsteemina , mis ei piira ega mõjuta kunstikommunikatsiooni , see tähendab autori ja vaataja vahelist suhet , nagu teevad paraku institutsioonid .",sundimatu,süsteem,Yes
+99,"Kunstikommunikatsiooni arenedes tuleb nende põhielementide ja “ teose ” vahele mitmesuguseid institutsioone , kuid kui tekib kriitika puhtal kujul , esineb see ainult ***** , neutraalse , paralleelse süsteemina , mis ei piira ega mõjuta kunstikommunikatsiooni , see tähendab autori ja vaataja vahelist suhet , nagu teevad paraku institutsioonid .",mitteametlik,süsteem,Yes
+100,"Okri on neeger , nigeerlane veel pealegi , meie keeles sellega justkui ***** neeger , mustem kui must .",kahekordne,neeger,Yes
+101,"Okri on neeger , nigeerlane veel pealegi , meie keeles sellega justkui ***** neeger , mustem kui must .",korduv,neeger,No
+102,"Paljudel juhtudel on optilised eriotstarbelised arvutid juba näidanud oma eeliseid elektronarvutite ees , eelkõige rakendustes , nagu näiteks kosmosetehnika või pilditöötlus , mis nõuavad suurt veakindlust , suurt kiirust info töötlemisel ja ***** mõõtmeid .",väike,mõõde,Yes
+103,"Paljudel juhtudel on optilised eriotstarbelised arvutid juba näidanud oma eeliseid elektronarvutite ees , eelkõige rakendustes , nagu näiteks kosmosetehnika või pilditöötlus , mis nõuavad suurt veakindlust , suurt kiirust info töötlemisel ja ***** mõõtmeid .",noor,mõõde,No
+104,"Kui küsida , kas ma saan ennast muuta , siis arvan , et vanale koerale enam ***** trikke ei õpeta .",uus,trikk,Yes
+105,"Kui küsida , kas ma saan ennast muuta , siis arvan , et vanale koerale enam ***** trikke ei õpeta .",originaalne,trikk,No
+106,Ning peagi võttis ***** diivanil koha sisse Merikese pikaajaline sõber Peep Aaviksoo .,kodune,diivan,Yes
+107,Ning peagi võttis ***** diivanil koha sisse Merikese pikaajaline sõber Peep Aaviksoo .,mitteametlik,diivan,No
+108,"Neid inimesi oli vähe , kellel oleks meeles püsinud , et ***** maailm on ümmargune ja et sinna mahub peale Eesti teisigi riike ja teisi kontinente .",poliitiline,maailm,Yes
+109,"Neid inimesi oli vähe , kellel oleks meeles püsinud , et ***** maailm on ümmargune ja et sinna mahub peale Eesti teisigi riike ja teisi kontinente .",riiklik,maailm,No
+110,"Oleg Gross tõestas , et maja ***** järve äärde ehitades ei pea järve üleüldse olemaski olema .",suur,järv,Yes
+111,"Oleg Gross tõestas , et maja ***** järve äärde ehitades ei pea järve üleüldse olemaski olema .",sügav,järv,Yes
+112,"Ehkki kaunis daam ei varja oma ***** ellusuhtumist , ei armasta ta seda ka eriti rõhutada .",kristlik,ellusuhtumine,Yes
+113,"Ehkki kaunis daam ei varja oma ***** ellusuhtumist , ei armasta ta seda ka eriti rõhutada .",liberaalne,ellusuhtumine,Yes
+114,Rööbiti rahamuredega ei unustanud Pohlak hetkekski oma ***** eesmärke .,ideeline,eesmärk,Yes
+115,Rööbiti rahamuredega ei unustanud Pohlak hetkekski oma ***** eesmärke .,abstraktne,eesmärk,Yes
+116,"Kuid erinevalt Soomest toimus Eestis tööstuse tõus tootmis- , mitte tarbekaupade arvel ja tööstustoodangu indeksi kasvul oli kaalukas osa ***** investeeringutel .",riiklik,investeering,Yes
+117,"Kuid erinevalt Soomest toimus Eestis tööstuse tõus tootmis- , mitte tarbekaupade arvel ja tööstustoodangu indeksi kasvul oli kaalukas osa ***** investeeringutel .",riigisisene,investeering,Yes
+118,"Nende loogikat , kes naise oma teenistusse värbasid , võib mõista : kes oskaks valgustkartvas tegevuses kahtlustada juba 50-le ***** soliidset kahe lapse ema ?",lähenev,ema,Yes
+119,"Nende loogikat , kes naise oma teenistusse värbasid , võib mõista : kes oskaks valgustkartvas tegevuses kahtlustada juba 50-le ***** soliidset kahe lapse ema ?",homne,ema,No
+120,"Meelis Kapstas Tänavuse eurolauluvõistluse “ ***** ehmatus ” on see , et kaht Eesti laulu esitavad pilku püüdvad kaunitarid väljamaalt .",suur,ehmatus,Yes
+121,"Meelis Kapstas Tänavuse eurolauluvõistluse “ ***** ehmatus ” on see , et kaht Eesti laulu esitavad pilku püüdvad kaunitarid väljamaalt .",sügav,ehmatus,No
+122,"Pigem on küsimus meil maad võtnud stiilis , kus võimupositsioonidele tõusjate taskud kiiresti täituvad , kus riigieelarvelistes asutustes makstud hiigelkompensatsioonid ja ilmsed korruptsioonijuhtumid jäävad kõigile arusaadava lahenduseta ning ühiskonda raputavate skandaalidega ei kaasne selget ***** vastutust .",poliitiline,vastutus,Yes
+123,"Pigem on küsimus meil maad võtnud stiilis , kus võimupositsioonidele tõusjate taskud kiiresti täituvad , kus riigieelarvelistes asutustes makstud hiigelkompensatsioonid ja ilmsed korruptsioonijuhtumid jäävad kõigile arusaadava lahenduseta ning ühiskonda raputavate skandaalidega ei kaasne selget ***** vastutust .",riiklik,vastutus,Yes
+124,"Planeerimis-ehitusseadus sätestab , et omavalitsus peab elamuehituseks ***** infrastruktuurid oma vahenditest ette valmistama ja sellega seonduva riski enda kanda võtma .",vajalik,infrastruktuur,Yes
+125,"Planeerimis-ehitusseadus sätestab , et omavalitsus peab elamuehituseks ***** infrastruktuurid oma vahenditest ette valmistama ja sellega seonduva riski enda kanda võtma .",hädavajalik,infrastruktuur,Yes
+126,Aga see on olnud selline ***** konkurents .,sõbralik,konkurents,Yes
+127,Aga see on olnud selline ***** konkurents .,isalik,konkurents,Yes
+128,"Paraku ei saa ta sisse kolida enne , kui ehitusmehed on krundile ***** aia ümber ehitanud .",kõrge,aed,Yes
+129,"Paraku ei saa ta sisse kolida enne , kui ehitusmehed on krundile ***** aia ümber ehitanud .",mitmekorruseline,aed,Yes
+130,Kadievit peetakse ERO ***** võimalikuks peasekretäriks .,uus,peasekretär,Yes
+131,Kadievit peetakse ERO ***** võimalikuks peasekretäriks .,originaalne,peasekretär,No
+132,"Pealegi ei soovi Venemaa Eestit meeleldi näha Lääne mõjusfääris , vaid pretendeerib õigusele sekkuda kõigi Balti riikide siseellu , seda sarnaselt ameeriklaste ***** katsetega Kesk-Ameerikas ja Kariibi mere regioonis 1980. aastatel .",analoogne,katse,Yes
+133,"Pealegi ei soovi Venemaa Eestit meeleldi näha Lääne mõjusfääris , vaid pretendeerib õigusele sekkuda kõigi Balti riikide siseellu , seda sarnaselt ameeriklaste ***** katsetega Kesk-Ameerikas ja Kariibi mere regioonis 1980. aastatel .",sarnane,katse,Yes
+134,"Lisaks sellele suurendavad levitajad kohe kandidaatide väljakuulutamise järel kinodes olevate filmikoopiate arvu , et vahetult enne ***** hääletamist märtsis tekitada veel viimast positiivset kumu , mis omakorda peaks mõjutama hääletajaid .",lõplik,hääletamine,Yes
+135,"Lisaks sellele suurendavad levitajad kohe kandidaatide väljakuulutamise järel kinodes olevate filmikoopiate arvu , et vahetult enne ***** hääletamist märtsis tekitada veel viimast positiivset kumu , mis omakorda peaks mõjutama hääletajaid .",viimane,hääletamine,Yes
+136,"Maniakaal-depressiivne psühhoos on peaaegu ainuke vaimuhaigus , mis seostub märkimisväärsete ***** saavutustega .",sotsiaalne,saavutus,Yes
+137,"Maniakaal-depressiivne psühhoos on peaaegu ainuke vaimuhaigus , mis seostub märkimisväärsete ***** saavutustega .",seltsiv,saavutus,No
+138,"Siis ei satu paanikasse , kui näiteks ***** tükis rolli ei anta .",järgmine,tükk,Yes
+139,"Siis ei satu paanikasse , kui näiteks ***** tükis rolli ei anta .",järgnev,tükk,Yes
+140,"Ent ma tunnen moraalset õigust olla ***** , sest olin esimene , kes kolm aastat tagasi hakkas kõnelema korvpalli lähenevast allakäigust .",otsekohene,õigus,No
+141,"Ent ma tunnen moraalset õigust olla ***** , sest olin esimene , kes kolm aastat tagasi hakkas kõnelema korvpalli lähenevast allakäigust .",konkreetne,õigus,No
+142,Nende ***** tähendus kandus üle iseseisvasse Eestisse .,negatiivne,tähendus,Yes
+143,Nende ***** tähendus kandus üle iseseisvasse Eestisse .,elektriline,tähendus,No
+144,Võrreldes ***** aastatega on see tunduvalt väiksem ( 200 - 350 m² ) .,eelnev,aasta,Yes
+145,Võrreldes ***** aastatega on see tunduvalt väiksem ( 200 - 350 m² ) .,eelmine,aasta,Yes
+146,Igal argipäeval kell kaks koguneb siia väike seltskond üha paremini rahuldama oma ***** ( või kahanevaid ) vajadusi .,kasvav,vajadus,Yes
+147,Igal argipäeval kell kaks koguneb siia väike seltskond üha paremini rahuldama oma ***** ( või kahanevaid ) vajadusi .,edenev,vajadus,No
+148,Plangu taga on ***** väljanägemisega majad .,ühesugune,väljanägemine,Yes
+149,Plangu taga on ***** väljanägemisega majad .,sarnane,väljanägemine,Yes
+150,"“ Iseasi , et televisiooni ***** filtrist läksid toona läbi ikka minu pehmemad laulud .",ideoloogiline,filter,Yes
+151,"“ Iseasi , et televisiooni ***** filtrist läksid toona läbi ikka minu pehmemad laulud .",filosoofiline,filter,Yes
+152,"Pole raske arvata , millisesse ***** kaosesse see riigi paiskaks .",õiguslik,kaos,Yes
+153,"Pole raske arvata , millisesse ***** kaosesse see riigi paiskaks .",konstitutsiooniline,kaos,Yes
+154,"Tuleb eeldada , et igal keelel on nii ***** kultuuriline potentsiaal , et piisavate majandussuhete olemasolul jääb võimalusi ka kultuuriinimeste toimetusteks .",suur,potentsiaal,Yes
+155,"Tuleb eeldada , et igal keelel on nii ***** kultuuriline potentsiaal , et piisavate majandussuhete olemasolul jääb võimalusi ka kultuuriinimeste toimetusteks .",kõrge,potentsiaal,Yes
+156,"Et teismeliseeas - see on ***** , aga küpsed inimesed ...",mõistetav,inimene,Yes
+157,"Et teismeliseeas - see on ***** , aga küpsed inimesed ...",arusaadav,inimene,Yes
+158,"2000 esinejaga etendus jättis tõepoolest sedavõrd haruldase elamuse , et seda igale eestlasele kord ***** vaatamiseks soovitada .",elus,vaatamine,No
+159,"2000 esinejaga etendus jättis tõepoolest sedavõrd haruldase elamuse , et seda igale eestlasele kord ***** vaatamiseks soovitada .",alaline,vaatamine,No
+160,"Ta takseerib oma ***** kõhtu ja nendib , et senisest rohkem peaks leidma füüsilist tegevust .",soliidne,kõht,Yes
+161,"Ta takseerib oma ***** kõhtu ja nendib , et senisest rohkem peaks leidma füüsilist tegevust .",auväärne,kõht,Yes
+162,"On plaanitsetud ***** registri loomist , kuid tegudeni pole veel jõutud .",vastav,register,Yes
+163,"On plaanitsetud ***** registri loomist , kuid tegudeni pole veel jõutud .",asjatundlik,register,No
+164,"Bernstein eristab traditsioonilises kunstikultuuris domineerivat ***** , absoluutset kaanonit järgivat kunstiteadvuse tüüpi introvertsest tüübist .",ekstravertne,tüüp,Yes
+165,"Bernstein eristab traditsioonilises kunstikultuuris domineerivat ***** , absoluutset kaanonit järgivat kunstiteadvuse tüüpi introvertsest tüübist .",seltsiv,tüüp,Yes
+166,"” Paistab , et Francol endal on küll ***** temperament Eestis kaasas .",rahvuslik,temperament,Yes
+167,"” Paistab , et Francol endal on küll ***** temperament Eestis kaasas .",etniline,temperament,Yes
+168,Mis on eesti rahva moraalne kood ?,moraalne,kood,Yes
+169,Mis on eesti rahva moraalne kood ?,eetiline,kood,Yes
+170,"Vaevalt , et paar tuhat ***** kodanikku sooviksid Canossasse käia ja oma võimaliku edu allikaid lähemalt kommenteerida .",lugupeetud,kodanik,Yes
+171,"Vaevalt , et paar tuhat ***** kodanikku sooviksid Canossasse käia ja oma võimaliku edu allikaid lähemalt kommenteerida .",esinduslik,kodanik,Yes
+172,"“ Meil oli ***** , soe ja sõbralik suhtlus , ” meenutab Kõiva .",pikk,suhtlus,Yes
+173,"“ Meil oli ***** , soe ja sõbralik suhtlus , ” meenutab Kõiva .",kauge,suhtlus,No
+174,"Hiljem see nõudmine soikus , kuid ametlikult oma ***** seisukohavõttudest loobutud pole .",kunagine,seisukohavõtt,Yes
+175,"Hiljem see nõudmine soikus , kuid ametlikult oma ***** seisukohavõttudest loobutud pole .",omaaegne,seisukohavõtt,Yes
+176,"Kui aga numbritesse süveneda , siis võib arusaamatuses käsi laiutada ja pärida : kui palju on Eestis inimesi , kes võivad endale lubada ***** eramu soetamist ( kasvõi pangalaenuga ) ?",tuttuus,eramu,Yes
+177,"Kui aga numbritesse süveneda , siis võib arusaamatuses käsi laiutada ja pärida : kui palju on Eestis inimesi , kes võivad endale lubada ***** eramu soetamist ( kasvõi pangalaenuga ) ?",uus,eramu,Yes
+178,"Psühhiaatri ***** lootus on aidata haigel leida uusi eesmärke ja huvisid , mis peletaksid kinnismõtte eemale .",peamine,lootus,Yes
+179,"Psühhiaatri ***** lootus on aidata haigel leida uusi eesmärke ja huvisid , mis peletaksid kinnismõtte eemale .",eriline,lootus,No
+180,"Siinjuures kasutavad nad ühekülgseid argumente , et vene rahva kultuurilised väärtused ei ole mitte niivõrd religioosset päritolu , kuivõrd kujunenud slaavi hõimude ***** arengu käigus .",ajalooline,areng,Yes
+181,"Siinjuures kasutavad nad ühekülgseid argumente , et vene rahva kultuurilised väärtused ei ole mitte niivõrd religioosset päritolu , kuivõrd kujunenud slaavi hõimude ***** arengu käigus .",keskaegne,areng,No
+182,"1994. aastal avaldas seesama Tipler raamatu “ The Physics of Immortality ” ( “ Surematuse füüsika ” ) , mis järjest ***** trükkides ilmudes raputas füüsikamaailma ( ja mitte ainult ) päris korralikult .",uus,trükk,Yes
+183,"1994. aastal avaldas seesama Tipler raamatu “ The Physics of Immortality ” ( “ Surematuse füüsika ” ) , mis järjest ***** trükkides ilmudes raputas füüsikamaailma ( ja mitte ainult ) päris korralikult .",originaalne,trükk,No
+184,Küünik peab häbi vihaks enese vastu ning püüab ***** koormast lahti saada .,ebamugav,koorem,Yes
+185,Küünik peab häbi vihaks enese vastu ning püüab ***** koormast lahti saada .,tume,koorem,Yes
+186,"Minul ei ole õigust neid kommenteerida , need on ***** .",konfidentsiaalne,mina,No
+187,"Minul ei ole õigust neid kommenteerida , need on ***** .",lähedane,mina,No
+188,Püüdlemist ***** seksi järele .,täiuslik,seks,Yes
+189,Püüdlemist ***** seksi järele .,ideaalne,seks,Yes
+190,Roxette'ilt on lähinädalail oodata ***** hitti A Thing About You .,uus,hitt,Yes
+191,Roxette'ilt on lähinädalail oodata ***** hitti A Thing About You .,originaalne,hitt,No
+192,"Šampust natuke mekkisime , siis sõidutas Alar Kotkas - tema on alati ***** autojuht !",kaine,autojuht,Yes
+193,"Šampust natuke mekkisime , siis sõidutas Alar Kotkas - tema on alati ***** autojuht !",realistlik,autojuht,No
+194,"Meid informeeriti sellest , kuid ei põhjendatud , ***** žüriiga kohtusime alles finaalis .",uus,žürii,Yes
+195,"Meid informeeriti sellest , kuid ei põhjendatud , ***** žüriiga kohtusime alles finaalis .",originaalne,žürii,Yes
+196,Laste muretsemine on liiga ***** vastutus .,suur,vastutus,Yes
+197,Laste muretsemine on liiga ***** vastutus .,kõrge,vastutus,Yes
+198,"Loen veel kord üle selle filmi tutvustusi - mis epiteetidega on seda küll iseloomustatud : hääbuv aristokraatia , ***** ilu , armastussurmade tähesadu ja mida kõik veel .",täiuslik,ilu,Yes
+199,"Loen veel kord üle selle filmi tutvustusi - mis epiteetidega on seda küll iseloomustatud : hääbuv aristokraatia , ***** ilu , armastussurmade tähesadu ja mida kõik veel .",ideaalne,ilu,Yes

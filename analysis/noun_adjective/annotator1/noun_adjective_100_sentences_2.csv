@@ -1,0 +1,201 @@
+﻿,sentence,adjective,noun,hinnang
+0,"See algab elementaarsetest eluks <<<ADJ tingimustest , nagu riided , toit ja peavari , ning lõpeb luksusesemetega , mille järele vajadus on õpitud või tekitatud .",tarvilik,tingimus,yes
+1,"See algab elementaarsetest eluks <<<ADJ tingimustest , nagu riided , toit ja peavari , ning lõpeb luksusesemetega , mille järele vajadus on õpitud või tekitatud .",hädavajalik,tingimus,yes
+2,"Olen kasvanud üles Tallinnas Kevade tänavas , seal oli <<<ADJ aed , kus sai kõvasti sporti teha .",suur,aed,yes
+3,"Olen kasvanud üles Tallinnas Kevade tänavas , seal oli <<<ADJ aed , kus sai kõvasti sporti teha .",kõrge,aed,no
+4,"Rivaalitsemisest hoolimata pole klannidel mingit <<<ADJ erinevust ning kui nende huvid ka aeg-ajalt põrkuvad , on tegemist “ pada sõimab katelt ” situatsiooniga .",maailmavaateline,erinevus,yes
+5,"Rivaalitsemisest hoolimata pole klannidel mingit <<<ADJ erinevust ning kui nende huvid ka aeg-ajalt põrkuvad , on tegemist “ pada sõimab katelt ” situatsiooniga .",filosoofiline,erinevus,yes
+6,"Muuseumi väravas astub tulijaile väärikalt vastu <<<ADJ , ent padjataoliselt priske kass .",väike,kass,yes
+7,"Muuseumi väravas astub tulijaile väärikalt vastu <<<ADJ , ent padjataoliselt priske kass .",noor,kass,yes
+8,"Ei oska öelda , kas “ süüdi ” on <<<ADJ aastatuhat , kuuseisud või on pereloomine tõepoolest jälle au sisse tõusnud .",uus,aastatuhat,yes
+9,"Ei oska öelda , kas “ süüdi ” on <<<ADJ aastatuhat , kuuseisud või on pereloomine tõepoolest jälle au sisse tõusnud .",originaalne,aastatuhat,no
+10,"USA-s tehti juba 1930. aastatel katsetega kindlaks , et inimese pea soojendamisel tema poolt <<<ADJ aja kulg aeglustub .",tajutav,aeg,yes
+11,"USA-s tehti juba 1930. aastatel katsetega kindlaks , et inimese pea soojendamisel tema poolt <<<ADJ aja kulg aeglustub .",endastmõistetav,aeg,no
+12,"Soomlasest fotograaf tõstab <<<ADJ vagude vahel poolesajakiloseid viinamarjakaste ja leiab teise päeva õhtuks , et on küll saanud piisava füüsilise koormuse , kuid spetsialistina liiga kallis sellist tööd tegema .",niiske,vagu,yes
+13,"Soomlasest fotograaf tõstab <<<ADJ vagude vahel poolesajakiloseid viinamarjakaste ja leiab teise päeva õhtuks , et on küll saanud piisava füüsilise koormuse , kuid spetsialistina liiga kallis sellist tööd tegema .",kleepuv,vagu,no
+14,"Cameron naudib Hollywoodi staari seisust , võib küsida stuudiobossidelt 10 miljoni dollari suurust honorari ning saab tööpakkumisi oma ala <<<ADJ tippudelt .",absoluutne,tipp,yes
+15,"Cameron naudib Hollywoodi staari seisust , võib küsida stuudiobossidelt 10 miljoni dollari suurust honorari ning saab tööpakkumisi oma ala <<<ADJ tippudelt .",lõputu,tipp,no
+16,"Kuigi <<<ADJ infrastruktuuri ja kaasaegsete mugavustega on kohati isegi liialdatud , näiteks maantee kolme hirmkalli tunneliga väikesaarel , kus kokku vaid kümmekond autot ja praamiühendus puudub , tundub , et aeg on siin kohati seisma jäänud .",moodne,infrastruktuur,yes
+17,"Kuigi <<<ADJ infrastruktuuri ja kaasaegsete mugavustega on kohati isegi liialdatud , näiteks maantee kolme hirmkalli tunneliga väikesaarel , kus kokku vaid kümmekond autot ja praamiühendus puudub , tundub , et aeg on siin kohati seisma jäänud .",kaasaegne,infrastruktuur,yes
+18,"” Fertilitase <<<ADJ arstidega harjunud Lisa aga nõuab ööselgi , et temaga suheldaks - teda sülle võetaks ja juttu aetaks .",suhtlev,arst,yes
+19,"” Fertilitase <<<ADJ arstidega harjunud Lisa aga nõuab ööselgi , et temaga suheldaks - teda sülle võetaks ja juttu aetaks .",seltskondlik,arst,yes
+20,"Kahjuks pole kõik eestlased veel teadvustanud , et <<<ADJ ja mugaval autosõidul on omad varjuküljed .",mõnus,autosõit,yes
+21,"Kahjuks pole kõik eestlased veel teadvustanud , et <<<ADJ ja mugaval autosõidul on omad varjuküljed .",meeldiv,autosõit,yes
+22,"Siin elavad tema lapsed Max ( 12 ) , Madeleine ( 10 ) ja Marina ( 7 ) , kaks lapsehoidjat ( <<<ADJ ja praegune ) , majahoidja , assistent ning abikaasa Ed Bye .",endine,lapsehoidja,yes
+23,"Siin elavad tema lapsed Max ( 12 ) , Madeleine ( 10 ) ja Marina ( 7 ) , kaks lapsehoidjat ( <<<ADJ ja praegune ) , majahoidja , assistent ning abikaasa Ed Bye .",omaaegne,lapsehoidja,yes
+24,Napib nii <<<ADJ ettevõtjaid kui ka järvemõnu nautivaid turiste .,rahakas,ettevõtja,yes
+25,Napib nii <<<ADJ ettevõtjaid kui ka järvemõnu nautivaid turiste .,rikas,ettevõtja,yes
+26,"Analüütikud on rõhutanud , et Ukraina on <<<ADJ näide poolel teel külmutatud majandusreformidest .",markantne,näide,yes
+27,"Analüütikud on rõhutanud , et Ukraina on <<<ADJ näide poolel teel külmutatud majandusreformidest .",huvitav,näide,yes
+28,Mironova on relvakulleri jaoks <<<ADJ taustaga .,tüüpiline,taust,yes
+29,Mironova on relvakulleri jaoks <<<ADJ taustaga .,iseloomulik,taust,yes
+30,"Pealegi kippus nii <<<ADJ pinna , rohkem kui kahesaja ruutmeetri ülalpidamine Reet Linnal ( 57 ) üle jõu käima .",suur,pind,yes
+31,"Pealegi kippus nii <<<ADJ pinna , rohkem kui kahesaja ruutmeetri ülalpidamine Reet Linnal ( 57 ) üle jõu käima .",lai,pind,yes
+32,"Ta tähendab ( 1995 ) : “ Pekingi Kommunistliku Partei ladvik lihtsalt ei mõista Hongkongi süsteemi alusvundamenti - seaduste austust , inimõigusi , vabaturgu ning valitsuse kasvavat <<<ADJ süsteemi - ning nad heidavad kõrvale selle , mida ei mõista .",demokraatlik,süsteem,yes
+33,"Ta tähendab ( 1995 ) : “ Pekingi Kommunistliku Partei ladvik lihtsalt ei mõista Hongkongi süsteemi alusvundamenti - seaduste austust , inimõigusi , vabaturgu ning valitsuse kasvavat <<<ADJ süsteemi - ning nad heidavad kõrvale selle , mida ei mõista .",kodanlik,süsteem,yes
+34,Valitsuse kukutamise nimel on ennegi loobutud oma erakonna <<<ADJ ja ideoloogilistest tõekspidamistest .,poliitiline,tõekspidamine,yes
+35,Valitsuse kukutamise nimel on ennegi loobutud oma erakonna <<<ADJ ja ideoloogilistest tõekspidamistest .,riiklik,tõekspidamine,no
+36,Kas <<<ADJ teadmistest on lauljaelus juba ka tulu tõusnud ?,uus,teadmine,yes
+37,Kas <<<ADJ teadmistest on lauljaelus juba ka tulu tõusnud ?,originaalne,teadmine,yes
+38,"Kui <<<ADJ tingimused on sellised , nagu on , jõuavad inimesed kiiresti haiglasse tagasi .",kodune,tingimus,yes
+39,"Kui <<<ADJ tingimused on sellised , nagu on , jõuavad inimesed kiiresti haiglasse tagasi .",meeldiv,tingimus,no
+40,Põhjamaised rahvakirikud ühendavad elanike <<<ADJ enamust .,absoluutne,enamus,yes
+41,Põhjamaised rahvakirikud ühendavad elanike <<<ADJ enamust .,lõputu,enamus,no
+42,"Igal planeedil on magnetväli , näiteks Maa oma kaitseb meid Päikeselt tulevate <<<ADJ energiaga laetud osakeste eest .",suur,energia,yes
+43,"Igal planeedil on magnetväli , näiteks Maa oma kaitseb meid Päikeselt tulevate <<<ADJ energiaga laetud osakeste eest .",kõrge,energia,yes
+44,"Ses suhtes on tähelepanuväärne hiljuti “ Areenis ” ilmunud kirjutis , mis juhtis tähelepanu sellele , kuidas eesti inimene võtab praegu tõsiselt “ eluõpikuid ” , reklaami käsulauseid jms . , mille üle ta veel paari aasta eest oleks irvitanud kui <<<ADJ lolluse üle .",viimane,lollus,yes
+45,"Ses suhtes on tähelepanuväärne hiljuti “ Areenis ” ilmunud kirjutis , mis juhtis tähelepanu sellele , kuidas eesti inimene võtab praegu tõsiselt “ eluõpikuid ” , reklaami käsulauseid jms . , mille üle ta veel paari aasta eest oleks irvitanud kui <<<ADJ lolluse üle .",püsiv,lollus,no
+46,"Sageli aga esitatakse oksjonil osalemiseks <<<ADJ paberid viimasel hetkel , nii et kontrollida ei jõuta .",vajalik,paber,yes
+47,"Sageli aga esitatakse oksjonil osalemiseks <<<ADJ paberid viimasel hetkel , nii et kontrollida ei jõuta .",hädavajalik,paber,yes
+48,"Arno kinnitab , et tema ülesanne on siiski <<<ADJ tehase tekitamine , mitte “ must töö ” : “ Mulle antakse sellepärast hapral ohupiiril ametikohad , et firma käekäik tähendab mulle otseselt mu enese käekäiku .",elujõuline,tehas,yes
+49,"Arno kinnitab , et tema ülesanne on siiski <<<ADJ tehase tekitamine , mitte “ must töö ” : “ Mulle antakse sellepärast hapral ohupiiril ametikohad , et firma käekäik tähendab mulle otseselt mu enese käekäiku .",elav,tehas,yes
+50,Kaitseministeerium on juhtunu <<<ADJ kommentaaridest seni hoidunud .,ametlik,kommentaar,yes
+51,Kaitseministeerium on juhtunu <<<ADJ kommentaaridest seni hoidunud .,pidulik,kommentaar,no
+52,Seda põhjendati vajadusega hoida silma peal “ Euroopa narkopesast ” Hollandist <<<ADJ inimestel .,saabuv,inimene,yes
+53,Seda põhjendati vajadusega hoida silma peal “ Euroopa narkopesast ” Hollandist <<<ADJ inimestel .,homne,inimene,no
+54,"Sellise propaganda sihiks näib olevat sellegi pisku , mis loodud , julm hävitamine ning meie riigi tervishoiustatistika taandamine <<<ADJ haiglate anonüümsete voodite jalgade loendamisele .",anonüümne,haigla,yes
+55,"Sellise propaganda sihiks näib olevat sellegi pisku , mis loodud , julm hävitamine ning meie riigi tervishoiustatistika taandamine <<<ADJ haiglate anonüümsete voodite jalgade loendamisele .",teadmata,haigla,yes
+56,"Ta on veendunud , et kõlavad tiitlid on <<<ADJ vastaste tellitud .",poliitiline,vastane,yes
+57,"Ta on veendunud , et kõlavad tiitlid on <<<ADJ vastaste tellitud .",riiklik,vastane,yes
+58,Milliseid <<<ADJ ja maateaduslikke tõsiasju Orbàn oma poliitilise retoorika koostamisel kasutas ?,ajalooline,tõsiasi,yes
+59,Milliseid <<<ADJ ja maateaduslikke tõsiasju Orbàn oma poliitilise retoorika koostamisel kasutas ?,keskaegne,tõsiasi,yes
+60,"Ent Fokkeri tehas olnuks ülimalt naiivne , kui ta lennukeid vettpidava <<<ADJ aluseta Hispaaniale kinkinuks .",juriidiline,alune,yes
+61,"Ent Fokkeri tehas olnuks ülimalt naiivne , kui ta lennukeid vettpidava <<<ADJ aluseta Hispaaniale kinkinuks .",administratiivne,alune,yes
+62,"Jaapani suurim tarkvaratootja Wacom , ravimifirma Il Hwa ( toodab Koreas zhenshenni ekstrakti ) , Panda Motors Corporation ( autotööstus ) ja Tong Il Corporation ( raskemasinatööstus Lõuna-Koreas ) on vaid üksikud nimed <<<ADJ loetelust .",pikk,loetelu,yes
+63,"Jaapani suurim tarkvaratootja Wacom , ravimifirma Il Hwa ( toodab Koreas zhenshenni ekstrakti ) , Panda Motors Corporation ( autotööstus ) ja Tong Il Corporation ( raskemasinatööstus Lõuna-Koreas ) on vaid üksikud nimed <<<ADJ loetelust .",kauge,loetelu,no
+64,"“ Kuna asume <<<ADJ Punase Reti hoones ja “ red records ” inglise keeles tähendab “ punane salvestab ” ( ja punane on salvestusnupu värv ) , siis pakkus Paul , et miks mitte Red Records .",endine,hoone,yes
+65,"“ Kuna asume <<<ADJ Punase Reti hoones ja “ red records ” inglise keeles tähendab “ punane salvestab ” ( ja punane on salvestusnupu värv ) , siis pakkus Paul , et miks mitte Red Records .",läinud,hoone,no
+66,"“ Tänu rahareformile korraldati Eestis kõige põhjalikum rahvaloendus , kirja pani end <<<ADJ kui üks Vene sõjaväelane , ” märgib Eesti Panga infosheff Kaupo Pollisinski .",viimane,sõjaväelane,yes
+67,"“ Tänu rahareformile korraldati Eestis kõige põhjalikum rahvaloendus , kirja pani end <<<ADJ kui üks Vene sõjaväelane , ” märgib Eesti Panga infosheff Kaupo Pollisinski .",püsiv,sõjaväelane,no
+68,"Minu <<<ADJ ambitsioonid on seotud mitte minu isiku , vaid jumalaga .",suur,ambitsioon,yes
+69,"Minu <<<ADJ ambitsioonid on seotud mitte minu isiku , vaid jumalaga .",kõrge,ambitsioon,yes
+70,"Ühest küljest toekalt ja enesekindlalt , tal on suur vennas- ja õeskond Pedagoogikaülikoolis , tal on äärmiselt mõjuvõimas ja tegus toetajaskond Haridusministeeriumis ning tal on oma meetod - pidurdamatu ilukõne , võime moodustada lõpmatu hulk grammatilisi lauseid , mille semantiline tõlgendamine on sageli <<<ADJ .",mõttetu,lause,no
+71,"Ühest küljest toekalt ja enesekindlalt , tal on suur vennas- ja õeskond Pedagoogikaülikoolis , tal on äärmiselt mõjuvõimas ja tegus toetajaskond Haridusministeeriumis ning tal on oma meetod - pidurdamatu ilukõne , võime moodustada lõpmatu hulk grammatilisi lauseid , mille semantiline tõlgendamine on sageli <<<ADJ .",tobe,lause,no
+72,"Ta lisab <<<ADJ toonil : “ Vahel ta kuulab mu soovitusi , kui tal aega on .",mõtlik,toon,yes
+73,"Ta lisab <<<ADJ toonil : “ Vahel ta kuulab mu soovitusi , kui tal aega on .",tõsine,toon,yes
+74,Propaganda Talitus omas ülevaadet kõigist <<<ADJ elu valdkondadest .,ideoloogiline,elu,yes
+75,Propaganda Talitus omas ülevaadet kõigist <<<ADJ elu valdkondadest .,filosoofiline,elu,yes
+76,"Kui ühel nädalal laiutab pika ja värvilise looga keskerakondlane , siis järgmises numbris saagu iseennast , oma elustiili ja maist vara näidata reformikas või isamaaliitlane .",pikk,lood,no
+77,"Kui ühel nädalal laiutab pika ja värvilise looga keskerakondlane , siis järgmises numbris saagu iseennast , oma elustiili ja maist vara näidata reformikas või isamaaliitlane .",kauge,lood,no
+78,"Pealegi on Pekingil vaja Moskvat kui suhteliselt kaasaegse sõjatehnika tarnijat , ja relvakaupa on need riigid viimasel ajal <<<ADJ aktiivsusega ka teinud .",kasvav,aktiivsus,yes
+79,"Pealegi on Pekingil vaja Moskvat kui suhteliselt kaasaegse sõjatehnika tarnijat , ja relvakaupa on need riigid viimasel ajal <<<ADJ aktiivsusega ka teinud .",edenev,aktiivsus,yes
+80,"Aga <<<ADJ plaanis küll , jah .",vaimne,plaan,yes
+81,"Aga <<<ADJ plaanis küll , jah .",intellektuaalne,plaan,yes
+82,"Kõige tähtsamad olid siiski kaks <<<ADJ daami - üks blond , teine brünett .",võluv,daam,yes
+83,"Kõige tähtsamad olid siiski kaks <<<ADJ daami - üks blond , teine brünett .",ilus,daam,yes
+84,"Vihje ei ole küll nii ilmne , nagu <<<ADJ kolmas lõvi Tallinna panga kaubamärgil , kuid ülaltvaates astmikpüramiid on meile tuttav vampiirifilmist “ Ehast koiduni ” - baar , kus imeti veoautojuhtide ja mootorratturite verd , oli astmikpüramiid mis astmikpüramiid .",puuduv,lõvi,yes
+85,"Vihje ei ole küll nii ilmne , nagu <<<ADJ kolmas lõvi Tallinna panga kaubamärgil , kuid ülaltvaates astmikpüramiid on meile tuttav vampiirifilmist “ Ehast koiduni ” - baar , kus imeti veoautojuhtide ja mootorratturite verd , oli astmikpüramiid mis astmikpüramiid .",läinud,lõvi,yes
+86,"Piison Villul on ka liigikaaslane , võluv piisonipiiga Vilja , ent Villu Reiljan palub sellele tõigale mitte <<<ADJ värvingut anda .",poliitiline,värving,yes
+87,"Piison Villul on ka liigikaaslane , võluv piisonipiiga Vilja , ent Villu Reiljan palub sellele tõigale mitte <<<ADJ värvingut anda .",riiklik,värving,no
+88,"Olgu hinnaga kuidas tahes , terve konkurents on <<<ADJ .",hädavajalik,hind,no
+89,"Olgu hinnaga kuidas tahes , terve konkurents on <<<ADJ .",vajalik,hind,no
+90,"“ Asi sai alguse Alar Kotkast , kes on üldse <<<ADJ inimene , ” põrutab Vahur Kersna ( 40 ) , kommenteerides juhtumit , mis võib viia ETV kohtuasjani .",keeruline,inimene,yes
+91,"“ Asi sai alguse Alar Kotkast , kes on üldse <<<ADJ inimene , ” põrutab Vahur Kersna ( 40 ) , kommenteerides juhtumit , mis võib viia ETV kohtuasjani .",mõtlemapanev,inimene,yes
+92,<<<ADJ etapp on Liisi jaoks taas üllatus - pedaalile astumise järel tõuseb triikimislaua kate kuuma auru mõjul kõrgemale .,järgmine,etapp,yes
+93,<<<ADJ etapp on Liisi jaoks taas üllatus - pedaalile astumise järel tõuseb triikimislaua kate kuuma auru mõjul kõrgemale .,järgnev,etapp,yes
+94,Näiteks püüd <<<ADJ tähelepanu ja tunnustuse järele ning alateadlik kättemaksusoov .,ühiskondlik,tähelepanu,yes
+95,Näiteks püüd <<<ADJ tähelepanu ja tunnustuse järele ning alateadlik kättemaksusoov .,avalik,tähelepanu,yes
+96,Tema head sidemed Hansapangaga polnud saladuseks ning <<<ADJ summa Hans H. Luige firma ka sai .,vajalik,summa,yes
+97,Tema head sidemed Hansapangaga polnud saladuseks ning <<<ADJ summa Hans H. Luige firma ka sai .,hädavajalik,summa,yes
+98,"Kunstikommunikatsiooni arenedes tuleb nende põhielementide ja “ teose ” vahele mitmesuguseid institutsioone , kuid kui tekib kriitika puhtal kujul , esineb see ainult <<<ADJ , neutraalse , paralleelse süsteemina , mis ei piira ega mõjuta kunstikommunikatsiooni , see tähendab autori ja vaataja vahelist suhet , nagu teevad paraku institutsioonid .",sundimatu,süsteem,yes
+99,"Kunstikommunikatsiooni arenedes tuleb nende põhielementide ja “ teose ” vahele mitmesuguseid institutsioone , kuid kui tekib kriitika puhtal kujul , esineb see ainult <<<ADJ , neutraalse , paralleelse süsteemina , mis ei piira ega mõjuta kunstikommunikatsiooni , see tähendab autori ja vaataja vahelist suhet , nagu teevad paraku institutsioonid .",mitteametlik,süsteem,yes
+100,"Okri on neeger , nigeerlane veel pealegi , meie keeles sellega justkui <<<ADJ neeger , mustem kui must .",kahekordne,neeger,yes
+101,"Okri on neeger , nigeerlane veel pealegi , meie keeles sellega justkui <<<ADJ neeger , mustem kui must .",korduv,neeger,yes
+102,"Paljudel juhtudel on optilised eriotstarbelised arvutid juba näidanud oma eeliseid elektronarvutite ees , eelkõige rakendustes , nagu näiteks kosmosetehnika või pilditöötlus , mis nõuavad suurt veakindlust , suurt kiirust info töötlemisel ja <<<ADJ mõõtmeid .",väike,mõõde,yes
+103,"Paljudel juhtudel on optilised eriotstarbelised arvutid juba näidanud oma eeliseid elektronarvutite ees , eelkõige rakendustes , nagu näiteks kosmosetehnika või pilditöötlus , mis nõuavad suurt veakindlust , suurt kiirust info töötlemisel ja <<<ADJ mõõtmeid .",noor,mõõde,no
+104,"Kui küsida , kas ma saan ennast muuta , siis arvan , et vanale koerale enam <<<ADJ trikke ei õpeta .",uus,trikk,yes
+105,"Kui küsida , kas ma saan ennast muuta , siis arvan , et vanale koerale enam <<<ADJ trikke ei õpeta .",originaalne,trikk,no
+106,Ning peagi võttis <<<ADJ diivanil koha sisse Merikese pikaajaline sõber Peep Aaviksoo .,kodune,diivan,yes
+107,Ning peagi võttis <<<ADJ diivanil koha sisse Merikese pikaajaline sõber Peep Aaviksoo .,mitteametlik,diivan,no
+108,"Neid inimesi oli vähe , kellel oleks meeles püsinud , et <<<ADJ maailm on ümmargune ja et sinna mahub peale Eesti teisigi riike ja teisi kontinente .",poliitiline,maailm,yes
+109,"Neid inimesi oli vähe , kellel oleks meeles püsinud , et <<<ADJ maailm on ümmargune ja et sinna mahub peale Eesti teisigi riike ja teisi kontinente .",riiklik,maailm,no
+110,"Oleg Gross tõestas , et maja <<<ADJ järve äärde ehitades ei pea järve üleüldse olemaski olema .",suur,järv,yes
+111,"Oleg Gross tõestas , et maja <<<ADJ järve äärde ehitades ei pea järve üleüldse olemaski olema .",sügav,järv,yes
+112,"Ehkki kaunis daam ei varja oma <<<ADJ ellusuhtumist , ei armasta ta seda ka eriti rõhutada .",kristlik,ellusuhtumine,yes
+113,"Ehkki kaunis daam ei varja oma <<<ADJ ellusuhtumist , ei armasta ta seda ka eriti rõhutada .",liberaalne,ellusuhtumine,yes
+114,Rööbiti rahamuredega ei unustanud Pohlak hetkekski oma <<<ADJ eesmärke .,ideeline,eesmärk,yes
+115,Rööbiti rahamuredega ei unustanud Pohlak hetkekski oma <<<ADJ eesmärke .,abstraktne,eesmärk,no
+116,"Kuid erinevalt Soomest toimus Eestis tööstuse tõus tootmis- , mitte tarbekaupade arvel ja tööstustoodangu indeksi kasvul oli kaalukas osa <<<ADJ investeeringutel .",riiklik,investeering,yes
+117,"Kuid erinevalt Soomest toimus Eestis tööstuse tõus tootmis- , mitte tarbekaupade arvel ja tööstustoodangu indeksi kasvul oli kaalukas osa <<<ADJ investeeringutel .",riigisisene,investeering,yes
+118,"Nende loogikat , kes naise oma teenistusse värbasid , võib mõista : kes oskaks valgustkartvas tegevuses kahtlustada juba 50-le <<<ADJ soliidset kahe lapse ema ?",lähenev,ema,yes
+119,"Nende loogikat , kes naise oma teenistusse värbasid , võib mõista : kes oskaks valgustkartvas tegevuses kahtlustada juba 50-le <<<ADJ soliidset kahe lapse ema ?",homne,ema,no
+120,"Meelis Kapstas Tänavuse eurolauluvõistluse “ <<<ADJ ehmatus ” on see , et kaht Eesti laulu esitavad pilku püüdvad kaunitarid väljamaalt .",suur,ehmatus,yes
+121,"Meelis Kapstas Tänavuse eurolauluvõistluse “ <<<ADJ ehmatus ” on see , et kaht Eesti laulu esitavad pilku püüdvad kaunitarid väljamaalt .",sügav,ehmatus,yes
+122,"Pigem on küsimus meil maad võtnud stiilis , kus võimupositsioonidele tõusjate taskud kiiresti täituvad , kus riigieelarvelistes asutustes makstud hiigelkompensatsioonid ja ilmsed korruptsioonijuhtumid jäävad kõigile arusaadava lahenduseta ning ühiskonda raputavate skandaalidega ei kaasne selget <<<ADJ vastutust .",poliitiline,vastutus,yes
+123,"Pigem on küsimus meil maad võtnud stiilis , kus võimupositsioonidele tõusjate taskud kiiresti täituvad , kus riigieelarvelistes asutustes makstud hiigelkompensatsioonid ja ilmsed korruptsioonijuhtumid jäävad kõigile arusaadava lahenduseta ning ühiskonda raputavate skandaalidega ei kaasne selget <<<ADJ vastutust .",riiklik,vastutus,yes
+124,"Planeerimis-ehitusseadus sätestab , et omavalitsus peab elamuehituseks <<<ADJ infrastruktuurid oma vahenditest ette valmistama ja sellega seonduva riski enda kanda võtma .",vajalik,infrastruktuur,yes
+125,"Planeerimis-ehitusseadus sätestab , et omavalitsus peab elamuehituseks <<<ADJ infrastruktuurid oma vahenditest ette valmistama ja sellega seonduva riski enda kanda võtma .",hädavajalik,infrastruktuur,yes
+126,Aga see on olnud selline <<<ADJ konkurents .,sõbralik,konkurents,yes
+127,Aga see on olnud selline <<<ADJ konkurents .,isalik,konkurents,yes
+128,"Paraku ei saa ta sisse kolida enne , kui ehitusmehed on krundile <<<ADJ aia ümber ehitanud .",kõrge,aed,yes
+129,"Paraku ei saa ta sisse kolida enne , kui ehitusmehed on krundile <<<ADJ aia ümber ehitanud .",mitmekorruseline,aed,yes
+130,Kadievit peetakse ERO <<<ADJ võimalikuks peasekretäriks .,uus,peasekretär,yes
+131,Kadievit peetakse ERO <<<ADJ võimalikuks peasekretäriks .,originaalne,peasekretär,yes
+132,"Pealegi ei soovi Venemaa Eestit meeleldi näha Lääne mõjusfääris , vaid pretendeerib õigusele sekkuda kõigi Balti riikide siseellu , seda sarnaselt ameeriklaste <<<ADJ katsetega Kesk-Ameerikas ja Kariibi mere regioonis 1980. aastatel .",analoogne,katse,yes
+133,"Pealegi ei soovi Venemaa Eestit meeleldi näha Lääne mõjusfääris , vaid pretendeerib õigusele sekkuda kõigi Balti riikide siseellu , seda sarnaselt ameeriklaste <<<ADJ katsetega Kesk-Ameerikas ja Kariibi mere regioonis 1980. aastatel .",sarnane,katse,yes
+134,"Lisaks sellele suurendavad levitajad kohe kandidaatide väljakuulutamise järel kinodes olevate filmikoopiate arvu , et vahetult enne <<<ADJ hääletamist märtsis tekitada veel viimast positiivset kumu , mis omakorda peaks mõjutama hääletajaid .",lõplik,hääletamine,yes
+135,"Lisaks sellele suurendavad levitajad kohe kandidaatide väljakuulutamise järel kinodes olevate filmikoopiate arvu , et vahetult enne <<<ADJ hääletamist märtsis tekitada veel viimast positiivset kumu , mis omakorda peaks mõjutama hääletajaid .",viimane,hääletamine,yes
+136,"Maniakaal-depressiivne psühhoos on peaaegu ainuke vaimuhaigus , mis seostub märkimisväärsete <<<ADJ saavutustega .",sotsiaalne,saavutus,yes
+137,"Maniakaal-depressiivne psühhoos on peaaegu ainuke vaimuhaigus , mis seostub märkimisväärsete <<<ADJ saavutustega .",seltsiv,saavutus,no
+138,"Siis ei satu paanikasse , kui näiteks <<<ADJ tükis rolli ei anta .",järgmine,tükk,yes
+139,"Siis ei satu paanikasse , kui näiteks <<<ADJ tükis rolli ei anta .",järgnev,tükk,yes
+140,"Ent ma tunnen moraalset õigust olla <<<ADJ , sest olin esimene , kes kolm aastat tagasi hakkas kõnelema korvpalli lähenevast allakäigust .",otsekohene,õigus,no
+141,"Ent ma tunnen moraalset õigust olla <<<ADJ , sest olin esimene , kes kolm aastat tagasi hakkas kõnelema korvpalli lähenevast allakäigust .",konkreetne,õigus,no
+142,Nende <<<ADJ tähendus kandus üle iseseisvasse Eestisse .,negatiivne,tähendus,yes
+143,Nende <<<ADJ tähendus kandus üle iseseisvasse Eestisse .,elektriline,tähendus,no
+144,Võrreldes <<<ADJ aastatega on see tunduvalt väiksem ( 200 - 350 m² ) .,eelnev,aasta,yes
+145,Võrreldes <<<ADJ aastatega on see tunduvalt väiksem ( 200 - 350 m² ) .,eelmine,aasta,yes
+146,Igal argipäeval kell kaks koguneb siia väike seltskond üha paremini rahuldama oma <<<ADJ ( või kahanevaid ) vajadusi .,kasvav,vajadus,yes
+147,Igal argipäeval kell kaks koguneb siia väike seltskond üha paremini rahuldama oma <<<ADJ ( või kahanevaid ) vajadusi .,edenev,vajadus,yes
+148,Plangu taga on <<<ADJ väljanägemisega majad .,ühesugune,väljanägemine,yes
+149,Plangu taga on <<<ADJ väljanägemisega majad .,sarnane,väljanägemine,yes
+150,"“ Iseasi , et televisiooni <<<ADJ filtrist läksid toona läbi ikka minu pehmemad laulud .",ideoloogiline,filter,yes
+151,"“ Iseasi , et televisiooni <<<ADJ filtrist läksid toona läbi ikka minu pehmemad laulud .",filosoofiline,filter,yes
+152,"Pole raske arvata , millisesse <<<ADJ kaosesse see riigi paiskaks .",õiguslik,kaos,yes
+153,"Pole raske arvata , millisesse <<<ADJ kaosesse see riigi paiskaks .",konstitutsiooniline,kaos,yes
+154,"Tuleb eeldada , et igal keelel on nii <<<ADJ kultuuriline potentsiaal , et piisavate majandussuhete olemasolul jääb võimalusi ka kultuuriinimeste toimetusteks .",suur,potentsiaal,yes
+155,"Tuleb eeldada , et igal keelel on nii <<<ADJ kultuuriline potentsiaal , et piisavate majandussuhete olemasolul jääb võimalusi ka kultuuriinimeste toimetusteks .",kõrge,potentsiaal,yes
+156,"Et teismeliseeas - see on <<<ADJ , aga küpsed inimesed ...",mõistetav,inimene,no
+157,"Et teismeliseeas - see on <<<ADJ , aga küpsed inimesed ...",arusaadav,inimene,no
+158,"2000 esinejaga etendus jättis tõepoolest sedavõrd haruldase elamuse , et seda igale eestlasele kord <<<ADJ vaatamiseks soovitada .",elus,vaatamine,no
+159,"2000 esinejaga etendus jättis tõepoolest sedavõrd haruldase elamuse , et seda igale eestlasele kord <<<ADJ vaatamiseks soovitada .",alaline,vaatamine,no
+160,"Ta takseerib oma <<<ADJ kõhtu ja nendib , et senisest rohkem peaks leidma füüsilist tegevust .",soliidne,kõht,yes
+161,"Ta takseerib oma <<<ADJ kõhtu ja nendib , et senisest rohkem peaks leidma füüsilist tegevust .",auväärne,kõht,no
+162,"On plaanitsetud <<<ADJ registri loomist , kuid tegudeni pole veel jõutud .",vastav,register,yes
+163,"On plaanitsetud <<<ADJ registri loomist , kuid tegudeni pole veel jõutud .",asjatundlik,register,no
+164,"Bernstein eristab traditsioonilises kunstikultuuris domineerivat <<<ADJ , absoluutset kaanonit järgivat kunstiteadvuse tüüpi introvertsest tüübist .",ekstravertne,tüüp,yes
+165,"Bernstein eristab traditsioonilises kunstikultuuris domineerivat <<<ADJ , absoluutset kaanonit järgivat kunstiteadvuse tüüpi introvertsest tüübist .",seltsiv,tüüp,yes
+166,"” Paistab , et Francol endal on küll <<<ADJ temperament Eestis kaasas .",rahvuslik,temperament,yes
+167,"” Paistab , et Francol endal on küll <<<ADJ temperament Eestis kaasas .",etniline,temperament,yes
+168,Mis on eesti rahva moraalne kood ?,moraalne,kood,yes
+169,Mis on eesti rahva moraalne kood ?,eetiline,kood,yes
+170,"Vaevalt , et paar tuhat <<<ADJ kodanikku sooviksid Canossasse käia ja oma võimaliku edu allikaid lähemalt kommenteerida .",lugupeetud,kodanik,yes
+171,"Vaevalt , et paar tuhat <<<ADJ kodanikku sooviksid Canossasse käia ja oma võimaliku edu allikaid lähemalt kommenteerida .",esinduslik,kodanik,yes
+172,"“ Meil oli <<<ADJ , soe ja sõbralik suhtlus , ” meenutab Kõiva .",pikk,suhtlus,yes
+173,"“ Meil oli <<<ADJ , soe ja sõbralik suhtlus , ” meenutab Kõiva .",kauge,suhtlus,yes
+174,"Hiljem see nõudmine soikus , kuid ametlikult oma <<<ADJ seisukohavõttudest loobutud pole .",kunagine,seisukohavõtt,yes
+175,"Hiljem see nõudmine soikus , kuid ametlikult oma <<<ADJ seisukohavõttudest loobutud pole .",omaaegne,seisukohavõtt,yes
+176,"Kui aga numbritesse süveneda , siis võib arusaamatuses käsi laiutada ja pärida : kui palju on Eestis inimesi , kes võivad endale lubada <<<ADJ eramu soetamist ( kasvõi pangalaenuga ) ?",tuttuus,eramu,yes
+177,"Kui aga numbritesse süveneda , siis võib arusaamatuses käsi laiutada ja pärida : kui palju on Eestis inimesi , kes võivad endale lubada <<<ADJ eramu soetamist ( kasvõi pangalaenuga ) ?",uus,eramu,yes
+178,"Psühhiaatri <<<ADJ lootus on aidata haigel leida uusi eesmärke ja huvisid , mis peletaksid kinnismõtte eemale .",peamine,lootus,yes
+179,"Psühhiaatri <<<ADJ lootus on aidata haigel leida uusi eesmärke ja huvisid , mis peletaksid kinnismõtte eemale .",eriline,lootus,yes
+180,"Siinjuures kasutavad nad ühekülgseid argumente , et vene rahva kultuurilised väärtused ei ole mitte niivõrd religioosset päritolu , kuivõrd kujunenud slaavi hõimude <<<ADJ arengu käigus .",ajalooline,areng,yes
+181,"Siinjuures kasutavad nad ühekülgseid argumente , et vene rahva kultuurilised väärtused ei ole mitte niivõrd religioosset päritolu , kuivõrd kujunenud slaavi hõimude <<<ADJ arengu käigus .",keskaegne,areng,no
+182,"1994. aastal avaldas seesama Tipler raamatu “ The Physics of Immortality ” ( “ Surematuse füüsika ” ) , mis järjest <<<ADJ trükkides ilmudes raputas füüsikamaailma ( ja mitte ainult ) päris korralikult .",uus,trükk,yes
+183,"1994. aastal avaldas seesama Tipler raamatu “ The Physics of Immortality ” ( “ Surematuse füüsika ” ) , mis järjest <<<ADJ trükkides ilmudes raputas füüsikamaailma ( ja mitte ainult ) päris korralikult .",originaalne,trükk,no
+184,Küünik peab häbi vihaks enese vastu ning püüab <<<ADJ koormast lahti saada .,ebamugav,koorem,yes
+185,Küünik peab häbi vihaks enese vastu ning püüab <<<ADJ koormast lahti saada .,tume,koorem,yes
+186,"Minul ei ole õigust neid kommenteerida , need on <<<ADJ .",konfidentsiaalne,mina,no
+187,"Minul ei ole õigust neid kommenteerida , need on <<<ADJ .",lähedane,mina,no
+188,Püüdlemist <<<ADJ seksi järele .,täiuslik,seks,yes
+189,Püüdlemist <<<ADJ seksi järele .,ideaalne,seks,yes
+190,Roxette'ilt on lähinädalail oodata <<<ADJ hitti A Thing About You .,uus,hitt,yes
+191,Roxette'ilt on lähinädalail oodata <<<ADJ hitti A Thing About You .,originaalne,hitt,yes
+192,"Šampust natuke mekkisime , siis sõidutas Alar Kotkas - tema on alati <<<ADJ autojuht !",kaine,autojuht,yes
+193,"Šampust natuke mekkisime , siis sõidutas Alar Kotkas - tema on alati <<<ADJ autojuht !",realistlik,autojuht,yes
+194,"Meid informeeriti sellest , kuid ei põhjendatud , <<<ADJ žüriiga kohtusime alles finaalis .",uus,žürii,yes
+195,"Meid informeeriti sellest , kuid ei põhjendatud , <<<ADJ žüriiga kohtusime alles finaalis .",originaalne,žürii,yes
+196,Laste muretsemine on liiga <<<ADJ vastutus .,suur,vastutus,yes
+197,Laste muretsemine on liiga <<<ADJ vastutus .,kõrge,vastutus,yes
+198,"Loen veel kord üle selle filmi tutvustusi - mis epiteetidega on seda küll iseloomustatud : hääbuv aristokraatia , <<<ADJ ilu , armastussurmade tähesadu ja mida kõik veel .",täiuslik,ilu,yes
+199,"Loen veel kord üle selle filmi tutvustusi - mis epiteetidega on seda küll iseloomustatud : hääbuv aristokraatia , <<<ADJ ilu , armastussurmade tähesadu ja mida kõik veel .",ideaalne,ilu,yes
